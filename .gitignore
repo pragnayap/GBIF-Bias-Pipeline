@@ -1,0 +1,23 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# dbt
+dbt_project/target/
+dbt_project/dbt_packages/
+dbt_project/logs/
+
+# Tableau
+*.twb
+*.twbx
+*.hyper
+
+# Data files
+*.csv
+*.json
+*.parquet
+
+# Mac
+.DS_Store

@@ -1,0 +1,1451 @@
+(base) 
+~/Downloads via 🐍 v3.13.5 
+❯ cd
+(base) 
+~ 
+❯ ls
+anaconda_projects	Documents		iCloud Drive (Archive)	Library			Music			Pragnaya Python		Public			venv
+Desktop			Downloads		iframe_figures		Movies			Pictures		pratice.txt		thinkorswim		workspace
+(base) 
+~ 
+❯ cd Downloads
+(base) 
+~/Downloads via 🐍 v3.13.5 
+❯ ls
+_DSC5994.JPG
+_DSC6018.JPG
+_DSC6065.JPG
+_DSC6066.JPG
+_DSC6068.JPG
+_DSC6073.JPG
+_DSC6098.JPG
+_DSC6111.JPG
+_DSC6127.JPG
+_DSC6144.JPG
+_DSC6154.JPG
+_DSC6157.JPG
+_DSC6166.JPG
+_DSC6175.JPG
+_DSC6178.JPG
+_DSC6209.JPG
+_DSC6252.JPG
+_DSC6254.JPG
+_DSC6258.JPG
+_DSC6259.JPG
+_DSC6348.JPG
+_DSC6436-2.jpg
+_DSC6436.JPG
+_DSC6536.JPG
+_DSC6630-2.jpg
+_DSC6630.JPG
+_DSC6632.JPG
+_DSC6749.JPG
+_DSC6751.JPG
+_DSC6777.jpg
+_DSC6781-2.jpg
+_DSC6781.JPG
+(CS2204) Digital Design Principles And Practices 4e - Wakerly.pdf
+~$agnayaPriyadarshini_6Yrs_PerfTesting.docx
+~$agnayaPriyadarshini[5-6]PT.docx
+~$ek 7 takeaways_GROUP2.docx
+0005937-260221153910048.csv
+0005937-260221153910048.zip
+0041150-260226173443078.csv
+01_mongo_to_bronze.py
+020073170 Vaccine Card.pdf
+020073170 Vaccine stickers.pdf
+020073170-TB Blood Test.pdf
+063851ce7ba3e5ed2e6b0a1fa2e95c326d6bfbfde44b09124b9f1df6d48af15b.pdf
+1_Matrices.ipynb
+10th_Certificate.pdf
+1696032147344.jpeg
+1729200056277.jpeg
+4727-PPriyadarshini-GTP-LOC-October-2025.pdf
+7WG580F5.pdf
+8N8A0866.jpg
+8N8A0870.JPG
+8N8A0881.JPG
+8N8A0909.JPG
+8N8A0928.JPG
+8N8A0961.JPG
+8N8A0966.JPG
+8N8A0995.JPG
+8N8A1035.JPG
+8N8A1082.JPG
+8N8A1083.JPG
+906ca74c-081e-4277-a513-107cc703e7e5.docx
+Abhishek_Mathur_Resume_mk21.pdf
+AdmissionLetter_020073170.pdf
+Afinn.csv.xls
+AI_Declaration_015010996.pdf
+Apartment Rent.xlsx
+Appointments - Confirmation.pdf
+Approval Notice.pdf
+archive
+archive-2
+Assignment_1_020073170.pdf
+Assignment_1_2-020073170.ipynb
+Assignment_1_2-020073170.pdf
+Assignment_1_2-020073170.txt
+Assignment_1_2.pdf
+Assignment_2_020073170.ipynb
+Assignment_2_020073170.pdf
+Assignment_2-020073170.ipynb
+Assignment_2-020073170.pdf
+Assignment_3_020073170.ipynb
+Assignment_3_020073170.pdf
+Assignment_4.ipynb
+Assignment_4.pdf
+Assignment_7_020073170-2.ipynb
+Assignment_7_020073170.ipynb
+Assignment_7_020073170.pdf
+assignment.py
+Assignment1_020073170-2.pdf
+Assignment1_020073170.ipynb
+Assignment1_020073170.pdf
+Assignment6-3.ipynb
+Bias Detection Proposal Draft.docx
+Bias Detection Proposal Draft.pdf
+BiasDetection_MetricsFlow.xml
+BiasDetection_SystemArchitecture.xml
+Big_Data_Technologies_and_Applications_for_Data_Intelligence_DATA_228_Spring_2026.pdf
+Bills-combined.pdf
+Bills.pdf
+BofA_AccountSummary.pdf
+Bride site Tradisonal video..mp4
+ca_residency_docs.pdf
+Ch. 2, 3.pptx
+ch2_mapping_aesthetics_custom_dataset-2.ipynb
+ch2_mapping_aesthetics_custom_dataset.ipynb
+ch2_mapping_aesthetics_custom_dataset.pdf
+ch2_mapping_aesthetics_housing_prices.ipynb
+ch2_mapping_aesthetics_kaggle_housing.ipynb
+ch2_mapping_aesthetics.ipynb
+Claim-Form-Part-A 2.pdf
+CodeData_export
+Compiled_Syllabus_Spring_2026 - Spring'26 Syllabus.pdf
+Compiled_Syllabus_Spring_2026 - Weekwise Deadlines.pdf
+countofmoviesvsTVshows.png
+Cover Letter 2.pdf
+Cover Letter for COS application.docx
+Cover Letter for COS application.pdf
+Cover Letter.pdf
+Coverage_Doc.pdf
+csu-residence-questionnaire.pdf
+dashboard1.png
+DATA 230 presentation # 2.pptx
+Data Discussion points.docx
+DATA_226_SME_Interview_Report.pdf
+DATA200-240125.pptx
+DataCube.doc
+datasets_download_usage_0041150-260226173443078.tsv
+deck_lease_agreement.pdf
+Degree_Transcript.pdf
+dokumen.pub_fundamentals-of-data-visualization-a-primer-on-making-informative-and-compelling-figures-1nbsped-1492031089-9781492031086.pdf
+drive-download-20250821T174653Z-1-001
+DSC_0765US VISA.jpg
+DSC05826.JPG
+DSC05898.JPG
+DSC05910.JPG
+DSC06059.JPG
+DSC06062.JPG
+DSC06071.JPG
+DSC06134.jpg
+DSC06227.JPG
+DSC06334.jpg
+DSC06337.jpg
+DSC06338.JPG
+DSC06644.JPG
+DSC06650.JPG
+DSC06668.JPG
+DSC06671.JPG
+DSC06692.jpg
+DSC07057.JPG
+DSC07066.JPG
+DSC07237.JPG
+DSC07241.JPG
+DSC07252.JPG
+DSC08066.JPG
+DV Assignment 1 Tableau.pdf
+DV Plot explanation.docx
+DV_Assignment1_020073170.pdf
+DWP TA WEEK4 COMMENTS.rtf
+enterprise-design-thinking-practitioner.1.png
+EnterpriseDesignThinkingPractitioner_Badge20260307-31-6q29w9.pdf
+EnterpriseDesignThinkingPractitioner_Badge20260307-31-9np5vi.pdf
+ExplanationOfBenefits_PP_kaiser.pdf
+FINAL BILL SASMITA KHANDUAL_compressed (1).pdf
+Final Takeaways.docx
+Final_Project_Proposal_LaTeX - Google Docs.pdf
+Final_Project_Proposal_LaTeX.docx
+Financial Docs
+first_Demo.ipynb
+flat-colors.itermcolors
+fundamentals_data_visualization_basic.ipynb
+fundamentals_data_visualization_natural_voice_executed.ipynb
+Gmail - Welcome to Bank of America.pdf
+GMT20250405-063248_Recording_640x360.mp4
+googlechrome-2.dmg
+googlechrome-3.dmg
+googlechrome.dmg
+Groom site Tradisonal video.mp4
+Group 1 Presentation for Ch. 2 & 3.pptx
+Group 7- Project Proposal-1.pdf
+H1B-Approval Notice.pdf
+Homework 1.2 KNIME.pdf
+Homework_1_4_Group_Project_FINAL (2).docx
+honestyPledgeWithAI.pdf
+Housing.csv
+HW 1.1-Group 2-Industry Expert Interview.pdf
+HW 1.2-Group 2- KINME Workflow.pdf
+HW 1.2-Group 2-KINME Workflow.pdf
+HW2.AneesSaheba.pdf
+I_94_pp.pdf
+I-539.pdf
+I-907.pdf
+I-94_Spouse 2.pdf
+I-94_Spouse.pdf
+I20 Signed & Dated.pdf
+ilovepdf_unlocked
+Image Blurring Using Convolution.pdf
+imagecompressor.zip
+InstallLDBPackage64c-2-1-5-00.zip
+Insurance_ID.jpeg
+international_applicant_financial_form_JUL2024.pdf
+Lecture1_py.pdf
+Letter of Recommendation_signed.pdf
+LetterOfAccural_PP_Kaiser.pdf
+linear_algebra_assignment.ipynb
+LOR_FromManager.rtfd
+marriage_cert.pdf
+Matillion_User_accessKeys.csv
+matplot_example.ipynb
+Member information _ Kaiser Permanente.pdf
+mongodb-compass-1.49.4-darwin-x64.dmg
+netflix_titles.csv
+Numpy - Colab.html
+P1020813_cropped.png
+Passport_page-0001.jpg
+paystub_sep_1.pdf
+PBIDesktopSetup_x64.exe
+pdf.eml
+Plotly.ipynb
+poised-climate-490007-e3-f1430592000f.json
+Post Hospital charges.pdf
+Prag Wedding Album.pdf
+Pragnaya & Richit Tradisonal Bride side video.mp4
+Pragnaya & Richit Tradisonal groom side video.mp4
+PRAGNAYA & RITCHIT - TRADITIONAL - V1.mp4
+Pragnaya COS Docs
+Pragnaya Passport Front.pdf
+Pragnaya Passport.jpg
+Pragnaya Passport.pdf
+Pragnaya Priyadarshini Approval Notice-c.pdf
+Pragnaya Priyadarshini i797.pdf
+Pragnaya-Priyadarshini-Resume.docx
+PragnayaPriyadarshini_6Yr_PT.docx
+PragnayaPriyadarshini_6Yrs_PerfTesting.docx
+PragnayaPriyadarshini_6Yrs_PerfTesting.pdf
+PragnayaPriyadarshini[3-4]PT (1)_250121_105801 copy.pdf
+PragnayaPriyadarshini[3-4]PT (1)_250121_105801.pdf
+PragnayaPriyadarshini[5-6]PT.docx
+PragnayaPriyadarshini[5-6]PT.pdf
+Profile-2.pdf
+Profile.pdf
+Project_Proposal (2).pdf
+Project_Proposal_GROUP 2.pdf
+Project_Proposal_group8.pdf
+Python (OneShot)
+QUALITEST_Docs
+QUALITEST_Docs (1).zip
+QUALITEST_Docs 2
+QUALITEST_Docs.zip
+Questions for Industry expert.docx
+ratingdistribution.png
+Receipt Notice.pdf
+recording.conf
+Regarding Payment of Fees through - SB Collect and Forms-New-17.02.2023.pdf
+Regarding Payment of Fees through - SB Collect and Forms.pdf
+RENTCafe_LeaseAgreement_Executed.pdf
+report.html
+report.md
+Ritchit Nayak - Nimble - H-1B Visa 2025 - H-1B Approval-c.pdf
+Ritchit_Passport.pdf
+Ritz Wedding Album.pdf
+Sample - EU Superstore.xls
+SASMITA BANK DETAILS.pdf
+SASMITA KHANDAL _240613_111505.pdf
+SASMITA MADAM BILL 1  (1).pdf
+SASMITA MADAM BILL 1 (1).pdf
+schema.yml
+SEVIS_FEE_I901_payment_confirmation_10152025.PDF
+ShubhamSingh_Resume.pdf
+SJSU Preparing for Global Spartan Welcome (F-1 Students) certificate - Priyadarshini Pragnaya.pdf
+SJSU Waiver Confirmation.pdf
+slides_export
+Social_Media_Advertising - Social_Media_Advertising.csv
+Social_Media_Advertising.xlsx
+SOM_6135.JPG
+SOM_6168.jpg
+SOM_6225.jpg
+SOU01245.ARW
+SOU01300.ARW
+SOU01357.ARW
+SOU01456.ARW
+SOU01456.jpg
+SOU01536.ARW
+SOU01578.jpg
+SOU01597.jpg
+SOU01598.jpg
+SOU01613.jpg
+SOU01658.ARW
+SOU01661.ARW
+SOU09967.ARW
+Spouse_PayStubs+EmploymentLetter.pdf
+SPRING '26 Syllabus-2.xlsx
+Stats_Part_1.ipynb
+studymaterial
+Superstore.csv
+TableauPublic-2026-1-0.dmg
+The Cook (Operational System)-2.png
+The Cook (Operational System).png
+titlesaddedovertime.png
+TOEFL_Score_Report_0135820.pdf
+top10countries.png
+TranscriptFeeReceipt.pdf
+Untitled Diagram-2.drawio
+Untitled Diagram.drawio
+Untitled Diagram.drawio-2.png
+Untitled Diagram.drawio.png
+Update_on_your_request_2025-09-25.pdf
+US20250117197A1.pdf
+Vectors_PurePython.ipynb
+Vehicle History Report on VIN 5YFS4RCE8LP038725.pdf
+video1108582540.mp4
+visa_document_updated.pdf
+visa_pp.pdf
+Visa.pdf
+VOE - Ritchit Nayak.pdf
+Week 6_Top 10 Takeaways_Group_2.pdf
+Week 7 takeaways_GROUP2.pdf
+Week 7 takeaways.docx
+Week_4_Top_10_Takeaways_Group2_Word.docx
+Week_4_Top_10_Takeaways_Group2_Word.docx.pdf
+Week1_Introduction. Graphical Representation of Data.pdf
+Week2_Vector Representation and Geometric Interpretation of Data_no_sol.pdf
+Week3 Matrix Representation of Data and Linear Systems_no_sol.pdf
+Week4 Differential Analysis_ Rates of Change and Local Behavior_no_sol.pdf
+Week7_Higher-Order Effects and Approximation_no_sol.pdf
+weekly takeaways 1.rtfd
+weekly takeaways.docx
+WhatsApp Image 2025-12-09 at 14.13.55.jpeg
+WhatsApp Image 2025-12-19 at 09.50.43.jpeg
+WhatsApp Image 2025-12-19 at 09.53.39 (1).jpeg
+WhatsApp Image 2025-12-19 at 09.53.39.jpeg
+WhatsApp Image 2025-12-19 at 10.00.42.jpeg
+WhatsApp Image 2025-12-19 at 10.01.37.jpeg
+WhatsApp Image 2025-12-19 at 10.03.11.jpeg
+Wk1_export
+Wk3_export
+Wk3_export-2
+Wk4_export
+Wk7_export
+XRAY,MRI.pdf
+Zoom-2.pkg
+Zoom-3.pkg
+Zoom-4.pkg
+Zoom.pkg
+(base) 
+~/Downloads via 🐍 v3.13.5 
+❯ head -n 5 0041150-260226173443078.csv > sample_file1.csv
+(base) 
+~/Downloads via 🐍 v3.13.5 
+❯ ls
+_DSC5994.JPG
+_DSC6018.JPG
+_DSC6065.JPG
+_DSC6066.JPG
+_DSC6068.JPG
+_DSC6073.JPG
+_DSC6098.JPG
+_DSC6111.JPG
+_DSC6127.JPG
+_DSC6144.JPG
+_DSC6154.JPG
+_DSC6157.JPG
+_DSC6166.JPG
+_DSC6175.JPG
+_DSC6178.JPG
+_DSC6209.JPG
+_DSC6252.JPG
+_DSC6254.JPG
+_DSC6258.JPG
+_DSC6259.JPG
+_DSC6348.JPG
+_DSC6436-2.jpg
+_DSC6436.JPG
+_DSC6536.JPG
+_DSC6630-2.jpg
+_DSC6630.JPG
+_DSC6632.JPG
+_DSC6749.JPG
+_DSC6751.JPG
+_DSC6777.jpg
+_DSC6781-2.jpg
+_DSC6781.JPG
+(CS2204) Digital Design Principles And Practices 4e - Wakerly.pdf
+~$agnayaPriyadarshini_6Yrs_PerfTesting.docx
+~$agnayaPriyadarshini[5-6]PT.docx
+~$ek 7 takeaways_GROUP2.docx
+0005937-260221153910048.csv
+0005937-260221153910048.zip
+0041150-260226173443078.csv
+01_mongo_to_bronze.py
+020073170 Vaccine Card.pdf
+020073170 Vaccine stickers.pdf
+020073170-TB Blood Test.pdf
+063851ce7ba3e5ed2e6b0a1fa2e95c326d6bfbfde44b09124b9f1df6d48af15b.pdf
+1_Matrices.ipynb
+10th_Certificate.pdf
+1696032147344.jpeg
+1729200056277.jpeg
+4727-PPriyadarshini-GTP-LOC-October-2025.pdf
+7WG580F5.pdf
+8N8A0866.jpg
+8N8A0870.JPG
+8N8A0881.JPG
+8N8A0909.JPG
+8N8A0928.JPG
+8N8A0961.JPG
+8N8A0966.JPG
+8N8A0995.JPG
+8N8A1035.JPG
+8N8A1082.JPG
+8N8A1083.JPG
+906ca74c-081e-4277-a513-107cc703e7e5.docx
+Abhishek_Mathur_Resume_mk21.pdf
+AdmissionLetter_020073170.pdf
+Afinn.csv.xls
+AI_Declaration_015010996.pdf
+Apartment Rent.xlsx
+Appointments - Confirmation.pdf
+Approval Notice.pdf
+archive
+archive-2
+Assignment_1_020073170.pdf
+Assignment_1_2-020073170.ipynb
+Assignment_1_2-020073170.pdf
+Assignment_1_2-020073170.txt
+Assignment_1_2.pdf
+Assignment_2_020073170.ipynb
+Assignment_2_020073170.pdf
+Assignment_2-020073170.ipynb
+Assignment_2-020073170.pdf
+Assignment_3_020073170.ipynb
+Assignment_3_020073170.pdf
+Assignment_4.ipynb
+Assignment_4.pdf
+Assignment_7_020073170-2.ipynb
+Assignment_7_020073170.ipynb
+Assignment_7_020073170.pdf
+assignment.py
+Assignment1_020073170-2.pdf
+Assignment1_020073170.ipynb
+Assignment1_020073170.pdf
+Assignment6-3.ipynb
+Bias Detection Proposal Draft.docx
+Bias Detection Proposal Draft.pdf
+BiasDetection_MetricsFlow.xml
+BiasDetection_SystemArchitecture.xml
+Big_Data_Technologies_and_Applications_for_Data_Intelligence_DATA_228_Spring_2026.pdf
+Bills-combined.pdf
+Bills.pdf
+BofA_AccountSummary.pdf
+Bride site Tradisonal video..mp4
+ca_residency_docs.pdf
+Ch. 2, 3.pptx
+ch2_mapping_aesthetics_custom_dataset-2.ipynb
+ch2_mapping_aesthetics_custom_dataset.ipynb
+ch2_mapping_aesthetics_custom_dataset.pdf
+ch2_mapping_aesthetics_housing_prices.ipynb
+ch2_mapping_aesthetics_kaggle_housing.ipynb
+ch2_mapping_aesthetics.ipynb
+Claim-Form-Part-A 2.pdf
+CodeData_export
+Compiled_Syllabus_Spring_2026 - Spring'26 Syllabus.pdf
+Compiled_Syllabus_Spring_2026 - Weekwise Deadlines.pdf
+countofmoviesvsTVshows.png
+Cover Letter 2.pdf
+Cover Letter for COS application.docx
+Cover Letter for COS application.pdf
+Cover Letter.pdf
+Coverage_Doc.pdf
+csu-residence-questionnaire.pdf
+dashboard1.png
+DATA 230 presentation # 2.pptx
+Data Discussion points.docx
+DATA_226_SME_Interview_Report.pdf
+DATA200-240125.pptx
+DataCube.doc
+datasets_download_usage_0041150-260226173443078.tsv
+deck_lease_agreement.pdf
+Degree_Transcript.pdf
+dokumen.pub_fundamentals-of-data-visualization-a-primer-on-making-informative-and-compelling-figures-1nbsped-1492031089-9781492031086.pdf
+drive-download-20250821T174653Z-1-001
+DSC_0765US VISA.jpg
+DSC05826.JPG
+DSC05898.JPG
+DSC05910.JPG
+DSC06059.JPG
+DSC06062.JPG
+DSC06071.JPG
+DSC06134.jpg
+DSC06227.JPG
+DSC06334.jpg
+DSC06337.jpg
+DSC06338.JPG
+DSC06644.JPG
+DSC06650.JPG
+DSC06668.JPG
+DSC06671.JPG
+DSC06692.jpg
+DSC07057.JPG
+DSC07066.JPG
+DSC07237.JPG
+DSC07241.JPG
+DSC07252.JPG
+DSC08066.JPG
+DV Assignment 1 Tableau.pdf
+DV Plot explanation.docx
+DV_Assignment1_020073170.pdf
+DWP TA WEEK4 COMMENTS.rtf
+enterprise-design-thinking-practitioner.1.png
+EnterpriseDesignThinkingPractitioner_Badge20260307-31-6q29w9.pdf
+EnterpriseDesignThinkingPractitioner_Badge20260307-31-9np5vi.pdf
+ExplanationOfBenefits_PP_kaiser.pdf
+FINAL BILL SASMITA KHANDUAL_compressed (1).pdf
+Final Takeaways.docx
+Final_Project_Proposal_LaTeX - Google Docs.pdf
+Final_Project_Proposal_LaTeX.docx
+Financial Docs
+first_Demo.ipynb
+flat-colors.itermcolors
+fundamentals_data_visualization_basic.ipynb
+fundamentals_data_visualization_natural_voice_executed.ipynb
+Gmail - Welcome to Bank of America.pdf
+GMT20250405-063248_Recording_640x360.mp4
+googlechrome-2.dmg
+googlechrome-3.dmg
+googlechrome.dmg
+Groom site Tradisonal video.mp4
+Group 1 Presentation for Ch. 2 & 3.pptx
+Group 7- Project Proposal-1.pdf
+H1B-Approval Notice.pdf
+Homework 1.2 KNIME.pdf
+Homework_1_4_Group_Project_FINAL (2).docx
+honestyPledgeWithAI.pdf
+Housing.csv
+HW 1.1-Group 2-Industry Expert Interview.pdf
+HW 1.2-Group 2- KINME Workflow.pdf
+HW 1.2-Group 2-KINME Workflow.pdf
+HW2.AneesSaheba.pdf
+I_94_pp.pdf
+I-539.pdf
+I-907.pdf
+I-94_Spouse 2.pdf
+I-94_Spouse.pdf
+I20 Signed & Dated.pdf
+ilovepdf_unlocked
+Image Blurring Using Convolution.pdf
+imagecompressor.zip
+InstallLDBPackage64c-2-1-5-00.zip
+Insurance_ID.jpeg
+international_applicant_financial_form_JUL2024.pdf
+Lecture1_py.pdf
+Letter of Recommendation_signed.pdf
+LetterOfAccural_PP_Kaiser.pdf
+linear_algebra_assignment.ipynb
+LOR_FromManager.rtfd
+marriage_cert.pdf
+Matillion_User_accessKeys.csv
+matplot_example.ipynb
+Member information _ Kaiser Permanente.pdf
+mongodb-compass-1.49.4-darwin-x64.dmg
+netflix_titles.csv
+Numpy - Colab.html
+P1020813_cropped.png
+Passport_page-0001.jpg
+paystub_sep_1.pdf
+PBIDesktopSetup_x64.exe
+pdf.eml
+Plotly.ipynb
+poised-climate-490007-e3-f1430592000f.json
+Post Hospital charges.pdf
+Prag Wedding Album.pdf
+Pragnaya & Richit Tradisonal Bride side video.mp4
+Pragnaya & Richit Tradisonal groom side video.mp4
+PRAGNAYA & RITCHIT - TRADITIONAL - V1.mp4
+Pragnaya COS Docs
+Pragnaya Passport Front.pdf
+Pragnaya Passport.jpg
+Pragnaya Passport.pdf
+Pragnaya Priyadarshini Approval Notice-c.pdf
+Pragnaya Priyadarshini i797.pdf
+Pragnaya-Priyadarshini-Resume.docx
+PragnayaPriyadarshini_6Yr_PT.docx
+PragnayaPriyadarshini_6Yrs_PerfTesting.docx
+PragnayaPriyadarshini_6Yrs_PerfTesting.pdf
+PragnayaPriyadarshini[3-4]PT (1)_250121_105801 copy.pdf
+PragnayaPriyadarshini[3-4]PT (1)_250121_105801.pdf
+PragnayaPriyadarshini[5-6]PT.docx
+PragnayaPriyadarshini[5-6]PT.pdf
+Profile-2.pdf
+Profile.pdf
+Project_Proposal (2).pdf
+Project_Proposal_GROUP 2.pdf
+Project_Proposal_group8.pdf
+Python (OneShot)
+QUALITEST_Docs
+QUALITEST_Docs (1).zip
+QUALITEST_Docs 2
+QUALITEST_Docs.zip
+Questions for Industry expert.docx
+ratingdistribution.png
+Receipt Notice.pdf
+recording.conf
+Regarding Payment of Fees through - SB Collect and Forms-New-17.02.2023.pdf
+Regarding Payment of Fees through - SB Collect and Forms.pdf
+RENTCafe_LeaseAgreement_Executed.pdf
+report.html
+report.md
+Ritchit Nayak - Nimble - H-1B Visa 2025 - H-1B Approval-c.pdf
+Ritchit_Passport.pdf
+Ritz Wedding Album.pdf
+Sample - EU Superstore.xls
+sample_file1.csv
+SASMITA BANK DETAILS.pdf
+SASMITA KHANDAL _240613_111505.pdf
+SASMITA MADAM BILL 1  (1).pdf
+SASMITA MADAM BILL 1 (1).pdf
+schema.yml
+SEVIS_FEE_I901_payment_confirmation_10152025.PDF
+ShubhamSingh_Resume.pdf
+SJSU Preparing for Global Spartan Welcome (F-1 Students) certificate - Priyadarshini Pragnaya.pdf
+SJSU Waiver Confirmation.pdf
+slides_export
+Social_Media_Advertising - Social_Media_Advertising.csv
+Social_Media_Advertising.xlsx
+SOM_6135.JPG
+SOM_6168.jpg
+SOM_6225.jpg
+SOU01245.ARW
+SOU01300.ARW
+SOU01357.ARW
+SOU01456.ARW
+SOU01456.jpg
+SOU01536.ARW
+SOU01578.jpg
+SOU01597.jpg
+SOU01598.jpg
+SOU01613.jpg
+SOU01658.ARW
+SOU01661.ARW
+SOU09967.ARW
+Spouse_PayStubs+EmploymentLetter.pdf
+SPRING '26 Syllabus-2.xlsx
+Stats_Part_1.ipynb
+studymaterial
+Superstore.csv
+TableauPublic-2026-1-0.dmg
+The Cook (Operational System)-2.png
+The Cook (Operational System).png
+titlesaddedovertime.png
+TOEFL_Score_Report_0135820.pdf
+top10countries.png
+TranscriptFeeReceipt.pdf
+Untitled Diagram-2.drawio
+Untitled Diagram.drawio
+Untitled Diagram.drawio-2.png
+Untitled Diagram.drawio.png
+Update_on_your_request_2025-09-25.pdf
+US20250117197A1.pdf
+Vectors_PurePython.ipynb
+Vehicle History Report on VIN 5YFS4RCE8LP038725.pdf
+video1108582540.mp4
+visa_document_updated.pdf
+visa_pp.pdf
+Visa.pdf
+VOE - Ritchit Nayak.pdf
+Week 6_Top 10 Takeaways_Group_2.pdf
+Week 7 takeaways_GROUP2.pdf
+Week 7 takeaways.docx
+Week_4_Top_10_Takeaways_Group2_Word.docx
+Week_4_Top_10_Takeaways_Group2_Word.docx.pdf
+Week1_Introduction. Graphical Representation of Data.pdf
+Week2_Vector Representation and Geometric Interpretation of Data_no_sol.pdf
+Week3 Matrix Representation of Data and Linear Systems_no_sol.pdf
+Week4 Differential Analysis_ Rates of Change and Local Behavior_no_sol.pdf
+Week7_Higher-Order Effects and Approximation_no_sol.pdf
+weekly takeaways 1.rtfd
+weekly takeaways.docx
+WhatsApp Image 2025-12-09 at 14.13.55.jpeg
+WhatsApp Image 2025-12-19 at 09.50.43.jpeg
+WhatsApp Image 2025-12-19 at 09.53.39 (1).jpeg
+WhatsApp Image 2025-12-19 at 09.53.39.jpeg
+WhatsApp Image 2025-12-19 at 10.00.42.jpeg
+WhatsApp Image 2025-12-19 at 10.01.37.jpeg
+WhatsApp Image 2025-12-19 at 10.03.11.jpeg
+Wk1_export
+Wk3_export
+Wk3_export-2
+Wk4_export
+Wk7_export
+XRAY,MRI.pdf
+Zoom-2.pkg
+Zoom-3.pkg
+Zoom-4.pkg
+Zoom.pkg
+(base) 
+~/Downloads via 🐍 v3.13.5 
+❯ cd path/to/gbif-bias-pipeline
+cd: no such file or directory: path/to/gbif-bias-pipeline
+(base) 
+~/Downloads via 🐍 v3.13.5 
+❯ cd
+(base) 
+~ 
+❯ ls
+anaconda_projects	Documents		iCloud Drive (Archive)	Library			Music			Pragnaya Python		Public			venv
+Desktop			Downloads		iframe_figures		Movies			Pictures		pratice.txt		thinkorswim		workspace
+(base) 
+~ 
+❯ mkdir -p ~/Desktop/gbif-bias-pipeline/ingestion
+cd ~/Desktop/gbif-bias-pipeline
+python3 -m venv venv
+source venv/bin/activate
+pip install pymongo dnspython python-dotenv requests
+
+Collecting pymongo
+  Downloading pymongo-4.16.0-cp313-cp313-macosx_10_13_x86_64.whl.metadata (10.0 kB)
+Collecting dnspython
+  Downloading dnspython-2.8.0-py3-none-any.whl.metadata (5.7 kB)
+Collecting python-dotenv
+  Downloading python_dotenv-1.2.2-py3-none-any.whl.metadata (27 kB)
+Collecting requests
+  Downloading requests-2.32.5-py3-none-any.whl.metadata (4.9 kB)
+Collecting charset_normalizer<4,>=2 (from requests)
+  Downloading charset_normalizer-3.4.6-cp313-cp313-macosx_10_13_universal2.whl.metadata (40 kB)
+Collecting idna<4,>=2.5 (from requests)
+  Using cached idna-3.11-py3-none-any.whl.metadata (8.4 kB)
+Collecting urllib3<3,>=1.21.1 (from requests)
+  Downloading urllib3-2.6.3-py3-none-any.whl.metadata (6.9 kB)
+Collecting certifi>=2017.4.17 (from requests)
+  Using cached certifi-2026.2.25-py3-none-any.whl.metadata (2.5 kB)
+Downloading pymongo-4.16.0-cp313-cp313-macosx_10_13_x86_64.whl (972 kB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 972.0/972.0 kB 14.0 MB/s eta 0:00:00
+Downloading dnspython-2.8.0-py3-none-any.whl (331 kB)
+Downloading python_dotenv-1.2.2-py3-none-any.whl (22 kB)
+Downloading requests-2.32.5-py3-none-any.whl (64 kB)
+Downloading charset_normalizer-3.4.6-cp313-cp313-macosx_10_13_universal2.whl (294 kB)
+Using cached idna-3.11-py3-none-any.whl (71 kB)
+Downloading urllib3-2.6.3-py3-none-any.whl (131 kB)
+Using cached certifi-2026.2.25-py3-none-any.whl (153 kB)
+Installing collected packages: urllib3, python-dotenv, idna, dnspython, charset_normalizer, certifi, requests, pymongo
+Successfully installed certifi-2026.2.25 charset_normalizer-3.4.6 dnspython-2.8.0 idna-3.11 pymongo-4.16.0 python-dotenv-1.2.2 requests-2.32.5 urllib3-2.6.3
+
+[notice] A new release of pip is available: 25.1.1 -> 26.0.1
+[notice] To update, run: pip install --upgrade pip
+(base) 
+~/Desktop/gbif-bias-pipeline via 🐍 v3.13.5 (venv) took 7s 
+❯ 
+(base) 
+~/Desktop/gbif-bias-pipeline via 🐍 v3.13.5 (venv) 
+❯ cd
+(base) 
+~ via 🐍 v3.13.5 (venv) 
+❯ ls
+anaconda_projects	Documents		iCloud Drive (Archive)	Library			Music			Pragnaya Python		Public			venv
+Desktop			Downloads		iframe_figures		Movies			Pictures		pratice.txt		thinkorswim		workspace
+(base) 
+~ via 🐍 v3.13.5 (venv) 
+❯ cd Desktop
+(base) 
+~/Desktop via 🐍 v3.13.5 (venv) 
+❯ ls
+360						Screenshot 2026-03-10 at 2.25.52 PM.png		Screenshot 2026-03-12 at 11.25.00 PM.png	Screenshot 2026-03-17 at 3.30.02 PM.png
+DW Takeaways					Screenshot 2026-03-10 at 2.34.49 PM.png		Screenshot 2026-03-12 at 12.25.13 AM.png	Screenshot 2026-03-17 at 3.42.13 PM.png
+gbif-bias-pipeline				Screenshot 2026-03-10 at 4.06.02 PM.png		Screenshot 2026-03-13 at 1.26.25 PM.png		Screenshot 2026-03-17 at 3.43.14 PM.png
+KNIME Docs					Screenshot 2026-03-10 at 4.20.17 PM.png		Screenshot 2026-03-13 at 10.21.16 AM.png	Screenshot 2026-03-17 at 3.44.20 PM.png
+Pragnaya Priyadarshini i797.jpg			Screenshot 2026-03-10 at 4.21.38 PM.png		Screenshot 2026-03-13 at 10.23.37 AM.png	Screenshot 2026-03-17 at 3.46.25 PM.png
+Screenshot 2026-03-07 at 10.08.54 AM.png	Screenshot 2026-03-10 at 4.42.19 PM.png		Screenshot 2026-03-13 at 11.22.54 AM.png	Screenshot 2026-03-17 at 3.47.51 PM.png
+Screenshot 2026-03-08 at 9.18.22 AM.png		Screenshot 2026-03-10 at 5.07.42 PM.png		Screenshot 2026-03-13 at 9.42.17 AM.png		Screenshot 2026-03-17 at 3.53.04 PM.png
+Screenshot 2026-03-10 at 12.26.50 PM.png	Screenshot 2026-03-10 at 5.50.49 PM.png		Screenshot 2026-03-13 at 9.42.34 AM.png		Screenshot 2026-03-17 at 4.06.16 PM.png
+Screenshot 2026-03-10 at 2.00.03 PM.png		Screenshot 2026-03-10 at 5.57.54 PM.png		Screenshot 2026-03-13 at 9.48.59 AM.png		Screenshot 2026-03-17 at 4.07.08 PM.png
+Screenshot 2026-03-10 at 2.01.24 PM.png		Screenshot 2026-03-11 at 12.29.17 AM.png	Screenshot 2026-03-14 at 9.42.00 AM.png		Screenshot 2026-03-17 at 6.21.53 AM.png
+Screenshot 2026-03-10 at 2.13.43 PM.png		Screenshot 2026-03-12 at 1.12.38 AM.png		Screenshot 2026-03-14 at 9.42.14 AM.png		Screenshot 2026-03-17 at 6.52.06 PM.png
+Screenshot 2026-03-10 at 2.14.52 PM.png		Screenshot 2026-03-12 at 1.17.10 AM.png		Screenshot 2026-03-14 at 9.42.37 AM.png		Screenshot 2026-03-17 at 7.01.25 PM.png
+Screenshot 2026-03-10 at 2.18.36 PM.png		Screenshot 2026-03-12 at 1.19.09 AM.png		Screenshot 2026-03-15 at 11.02.46 PM.png	Screenshot 2026-03-17 at 7.03.12 PM.png
+Screenshot 2026-03-10 at 2.19.15 PM.png		Screenshot 2026-03-12 at 1.24.08 AM.png		Screenshot 2026-03-15 at 11.04.52 PM.png	US20250117197A1.pdf
+Screenshot 2026-03-10 at 2.21.07 PM.png		Screenshot 2026-03-12 at 1.30.00 AM.png		Screenshot 2026-03-15 at 5.57.54 PM.png
+(base) 
+~/Desktop via 🐍 v3.13.5 (venv) 
+❯ curl -o ingestion/gbif_to_mongo.py \
+  "https://raw.githubusercontent.com/your-repo/gbif_to_mongo.py"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0Warning: Failed to open the file ingestion/gbif_to_mongo.py: No such file or 
+Warning: directory
+  0    20    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+curl: (56) Failure writing output to destination, passed 20 returned 4294967295
+(base) 
+~/Desktop via 🐍 v3.13.5 (venv) 
+❯ ls
+360						Screenshot 2026-03-10 at 2.25.52 PM.png		Screenshot 2026-03-12 at 11.25.00 PM.png	Screenshot 2026-03-17 at 3.30.02 PM.png
+DW Takeaways					Screenshot 2026-03-10 at 2.34.49 PM.png		Screenshot 2026-03-12 at 12.25.13 AM.png	Screenshot 2026-03-17 at 3.42.13 PM.png
+gbif-bias-pipeline				Screenshot 2026-03-10 at 4.06.02 PM.png		Screenshot 2026-03-13 at 1.26.25 PM.png		Screenshot 2026-03-17 at 3.43.14 PM.png
+KNIME Docs					Screenshot 2026-03-10 at 4.20.17 PM.png		Screenshot 2026-03-13 at 10.21.16 AM.png	Screenshot 2026-03-17 at 3.44.20 PM.png
+Pragnaya Priyadarshini i797.jpg			Screenshot 2026-03-10 at 4.21.38 PM.png		Screenshot 2026-03-13 at 10.23.37 AM.png	Screenshot 2026-03-17 at 3.46.25 PM.png
+Screenshot 2026-03-07 at 10.08.54 AM.png	Screenshot 2026-03-10 at 4.42.19 PM.png		Screenshot 2026-03-13 at 11.22.54 AM.png	Screenshot 2026-03-17 at 3.47.51 PM.png
+Screenshot 2026-03-08 at 9.18.22 AM.png		Screenshot 2026-03-10 at 5.07.42 PM.png		Screenshot 2026-03-13 at 9.42.17 AM.png		Screenshot 2026-03-17 at 3.53.04 PM.png
+Screenshot 2026-03-10 at 12.26.50 PM.png	Screenshot 2026-03-10 at 5.50.49 PM.png		Screenshot 2026-03-13 at 9.42.34 AM.png		Screenshot 2026-03-17 at 4.06.16 PM.png
+Screenshot 2026-03-10 at 2.00.03 PM.png		Screenshot 2026-03-10 at 5.57.54 PM.png		Screenshot 2026-03-13 at 9.48.59 AM.png		Screenshot 2026-03-17 at 4.07.08 PM.png
+Screenshot 2026-03-10 at 2.01.24 PM.png		Screenshot 2026-03-11 at 12.29.17 AM.png	Screenshot 2026-03-14 at 9.42.00 AM.png		Screenshot 2026-03-17 at 6.21.53 AM.png
+Screenshot 2026-03-10 at 2.13.43 PM.png		Screenshot 2026-03-12 at 1.12.38 AM.png		Screenshot 2026-03-14 at 9.42.14 AM.png		Screenshot 2026-03-17 at 6.52.06 PM.png
+Screenshot 2026-03-10 at 2.14.52 PM.png		Screenshot 2026-03-12 at 1.17.10 AM.png		Screenshot 2026-03-14 at 9.42.37 AM.png		Screenshot 2026-03-17 at 7.01.25 PM.png
+Screenshot 2026-03-10 at 2.18.36 PM.png		Screenshot 2026-03-12 at 1.19.09 AM.png		Screenshot 2026-03-15 at 11.02.46 PM.png	Screenshot 2026-03-17 at 7.03.12 PM.png
+Screenshot 2026-03-10 at 2.19.15 PM.png		Screenshot 2026-03-12 at 1.24.08 AM.png		Screenshot 2026-03-15 at 11.04.52 PM.png	US20250117197A1.pdf
+Screenshot 2026-03-10 at 2.21.07 PM.png		Screenshot 2026-03-12 at 1.30.00 AM.png		Screenshot 2026-03-15 at 5.57.54 PM.png
+(base) 
+~/Desktop via 🐍 v3.13.5 (venv) 
+❯ pip install pymongo dnspython requests python-dotenv
+Requirement already satisfied: pymongo in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (4.16.0)
+Requirement already satisfied: dnspython in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (2.8.0)
+Requirement already satisfied: requests in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (2.32.5)
+Requirement already satisfied: python-dotenv in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (1.2.2)
+Requirement already satisfied: charset_normalizer<4,>=2 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from requests) (3.4.6)
+Requirement already satisfied: idna<4,>=2.5 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from requests) (3.11)
+Requirement already satisfied: urllib3<3,>=1.21.1 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from requests) (2.6.3)
+Requirement already satisfied: certifi>=2017.4.17 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from requests) (2026.2.25)
+
+[notice] A new release of pip is available: 25.1.1 -> 26.0.1
+[notice] To update, run: pip install --upgrade pip
+(base) 
+~/Desktop via 🐍 v3.13.5 (venv) 
+❯ pip install --upgrade pip
+Requirement already satisfied: pip in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (25.1.1)
+Collecting pip
+  Downloading pip-26.0.1-py3-none-any.whl.metadata (4.7 kB)
+Downloading pip-26.0.1-py3-none-any.whl (1.8 MB)
+   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.8/1.8 MB 19.9 MB/s eta 0:00:00
+Installing collected packages: pip
+  Attempting uninstall: pip
+    Found existing installation: pip 25.1.1
+    Uninstalling pip-25.1.1:
+      Successfully uninstalled pip-25.1.1
+Successfully installed pip-26.0.1
+(base) 
+~/Desktop via 🐍 v3.13.5 (venv) took 2s 
+❯ cd ~/Desktop
+pip install pymongo requests
+python3 gbif_to_mongo.py --total 100000
+Requirement already satisfied: pymongo in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (4.16.0)
+Requirement already satisfied: requests in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (2.32.5)
+Requirement already satisfied: dnspython<3.0.0,>=2.6.1 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from pymongo) (2.8.0)
+Requirement already satisfied: charset_normalizer<4,>=2 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from requests) (3.4.6)
+Requirement already satisfied: idna<4,>=2.5 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from requests) (3.11)
+Requirement already satisfied: urllib3<3,>=1.21.1 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from requests) (2.6.3)
+Requirement already satisfied: certifi>=2017.4.17 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from requests) (2026.2.25)
+python3: can't open file '/Users/ritchit/Desktop/gbif_to_mongo.py': [Errno 2] No such file or directory
+(base) 
+~/Desktop via 🐍 v3.13.5 (venv) 
+❯ cd ~/Desktop
+pip install pymongo requests
+python3 gbif_to_mongo.py --total 100000
+Requirement already satisfied: pymongo in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (4.16.0)
+Requirement already satisfied: requests in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (2.32.5)
+Requirement already satisfied: dnspython<3.0.0,>=2.6.1 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from pymongo) (2.8.0)
+Requirement already satisfied: charset_normalizer<4,>=2 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from requests) (3.4.6)
+Requirement already satisfied: idna<4,>=2.5 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from requests) (3.11)
+Requirement already satisfied: urllib3<3,>=1.21.1 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from requests) (2.6.3)
+Requirement already satisfied: certifi>=2017.4.17 in ./gbif-bias-pipeline/venv/lib/python3.13/site-packages (from requests) (2026.2.25)
+  File "/Users/ritchit/Desktop/gbif_to_mongo.py", line 6
+    mongodb+srv://pragnaya:REDACTED_PASSWORD@dwp-cluster.mhebkb7.mongodb.net/gbif_birds
+                           ^
+SyntaxError: invalid decimal literal
+(base) 
+~/Desktop via 🐍 v3.13.5 (venv) 
+❯ python3 gbif_to_mongo.py --total 100000                                           
+22:45:56  Testing MongoDB connection...
+22:45:57  MongoDB connected OK
+22:45:57  Fetching 0 / 100,000 ...
+22:45:58  GBIF error: 401 Client Error: Unauthorized for url: https://api.gbif.org/v1/occurrence/search?datasetKey=0041150-260226173443078&occurrenceStatus=PRESENT&hasCoordinate=true&hasGeospatialIssue=false&taxonKey=212&limit=300&offset=0
+22:45:58  Done in 1s
+22:45:58  Inserted : 0
+22:45:58  Skipped  : 0 (duplicates)
+22:45:58  Total in MongoDB: 0
+(base) 
+~/Desktop via 🐍 v3.13.5 (venv) took 5s 
+❯ python3 gbif_to_mongo.py --total 100000
+22:49:45  Testing MongoDB connection...
+22:49:46  MongoDB connected OK
+22:49:46  Fetching 0 / 100,000 ...
+22:49:46  GBIF error: 400 Client Error: Bad Request for url: https://api.gbif.org/v1/occurrence/search?datasetKey=0041150-260226173443078&occurrenceStatus=PRESENT&hasCoordinate=true&hasGeospatialIssue=false&taxonKey=212&limit=300&offset=0
+22:49:46  Done in 1s
+22:49:46  Inserted : 0
+22:49:46  Skipped  : 0 (duplicates)
+22:49:47  Total in MongoDB: 0
+(base) 
+~/Desktop via 🐍 v3.13.5 (venv) took 2s 
+❯ ls -l           
+total 36616
+drwxr-xr-x   6 ritchit  staff      192 Dec 29 07:35 360
+drwxr-xr-x  11 ritchit  staff      352 Mar  6 00:02 DW Takeaways
+drwxr-xr-x@  6 ritchit  staff      192 Mar 17 22:58 gbif-bias-pipeline
+drwxr-xr-x  12 ritchit  staff      384 Mar  2 22:44 KNIME Docs
+-rw-r--r--@  1 ritchit  staff   200462 Jan  5 23:57 Pragnaya Priyadarshini i797.jpg
+-rw-r--r--@  1 ritchit  staff   816902 Mar  7 10:08 Screenshot 2026-03-07 at 10.08.54 AM.png
+-rw-r--r--@  1 ritchit  staff  1797233 Mar  8 09:18 Screenshot 2026-03-08 at 9.18.22 AM.png
+-rw-r--r--@  1 ritchit  staff   262594 Mar 10 12:26 Screenshot 2026-03-10 at 12.26.50 PM.png
+-rw-r--r--@  1 ritchit  staff   265947 Mar 10 14:00 Screenshot 2026-03-10 at 2.00.03 PM.png
+-rw-r--r--@  1 ritchit  staff   278722 Mar 10 14:01 Screenshot 2026-03-10 at 2.01.24 PM.png
+-rw-r--r--@  1 ritchit  staff   319317 Mar 10 14:13 Screenshot 2026-03-10 at 2.13.43 PM.png
+-rw-r--r--@  1 ritchit  staff   184053 Mar 10 14:15 Screenshot 2026-03-10 at 2.14.52 PM.png
+-rw-r--r--@  1 ritchit  staff   213979 Mar 10 14:18 Screenshot 2026-03-10 at 2.18.36 PM.png
+-rw-r--r--@  1 ritchit  staff   215015 Mar 10 14:19 Screenshot 2026-03-10 at 2.19.15 PM.png
+-rw-r--r--@  1 ritchit  staff   100654 Mar 10 14:21 Screenshot 2026-03-10 at 2.21.07 PM.png
+-rw-r--r--@  1 ritchit  staff   221815 Mar 10 14:26 Screenshot 2026-03-10 at 2.25.52 PM.png
+-rw-r--r--@  1 ritchit  staff   187093 Mar 10 14:34 Screenshot 2026-03-10 at 2.34.49 PM.png
+-rw-r--r--@  1 ritchit  staff   221090 Mar 10 16:06 Screenshot 2026-03-10 at 4.06.02 PM.png
+-rw-r--r--@  1 ritchit  staff   125976 Mar 10 16:20 Screenshot 2026-03-10 at 4.20.17 PM.png
+-rw-r--r--@  1 ritchit  staff   304399 Mar 10 16:21 Screenshot 2026-03-10 at 4.21.38 PM.png
+-rw-r--r--@  1 ritchit  staff    74695 Mar 10 16:42 Screenshot 2026-03-10 at 4.42.19 PM.png
+-rw-r--r--@  1 ritchit  staff    63213 Mar 10 17:07 Screenshot 2026-03-10 at 5.07.42 PM.png
+-rw-r--r--@  1 ritchit  staff   157050 Mar 10 17:50 Screenshot 2026-03-10 at 5.50.49 PM.png
+-rw-r--r--@  1 ritchit  staff    61023 Mar 10 17:57 Screenshot 2026-03-10 at 5.57.54 PM.png
+-rw-r--r--@  1 ritchit  staff   147088 Mar 11 00:29 Screenshot 2026-03-11 at 12.29.17 AM.png
+-rw-r--r--@  1 ritchit  staff   779766 Mar 12 01:12 Screenshot 2026-03-12 at 1.12.38 AM.png
+-rw-r--r--@  1 ritchit  staff   736533 Mar 12 01:17 Screenshot 2026-03-12 at 1.17.10 AM.png
+-rw-r--r--@  1 ritchit  staff   103879 Mar 12 01:19 Screenshot 2026-03-12 at 1.19.09 AM.png
+-rw-r--r--@  1 ritchit  staff   369864 Mar 12 01:24 Screenshot 2026-03-12 at 1.24.08 AM.png
+-rw-r--r--@  1 ritchit  staff   221020 Mar 12 01:30 Screenshot 2026-03-12 at 1.30.00 AM.png
+-rw-r--r--@  1 ritchit  staff   890720 Mar 12 23:25 Screenshot 2026-03-12 at 11.25.00 PM.png
+-rw-r--r--@  1 ritchit  staff   364545 Mar 12 00:25 Screenshot 2026-03-12 at 12.25.13 AM.png
+-rw-r--r--@  1 ritchit  staff   332629 Mar 13 13:26 Screenshot 2026-03-13 at 1.26.25 PM.png
+-rw-r--r--@  1 ritchit  staff   115268 Mar 13 10:21 Screenshot 2026-03-13 at 10.21.16 AM.png
+-rw-r--r--@  1 ritchit  staff   139883 Mar 13 10:23 Screenshot 2026-03-13 at 10.23.37 AM.png
+-rw-r--r--@  1 ritchit  staff   172266 Mar 13 11:23 Screenshot 2026-03-13 at 11.22.54 AM.png
+-rw-r--r--@  1 ritchit  staff   281805 Mar 13 09:42 Screenshot 2026-03-13 at 9.42.17 AM.png
+-rw-r--r--@  1 ritchit  staff   281805 Mar 13 09:42 Screenshot 2026-03-13 at 9.42.34 AM.png
+-rw-r--r--@  1 ritchit  staff   185578 Mar 13 09:49 Screenshot 2026-03-13 at 9.48.59 AM.png
+-rw-r--r--@  1 ritchit  staff   671763 Mar 14 09:42 Screenshot 2026-03-14 at 9.42.00 AM.png
+-rw-r--r--@  1 ritchit  staff   890606 Mar 14 09:42 Screenshot 2026-03-14 at 9.42.14 AM.png
+-rw-r--r--@  1 ritchit  staff   280948 Mar 14 09:42 Screenshot 2026-03-14 at 9.42.37 AM.png
+-rw-r--r--@  1 ritchit  staff   356004 Mar 15 23:02 Screenshot 2026-03-15 at 11.02.46 PM.png
+-rw-r--r--@  1 ritchit  staff   382348 Mar 15 23:04 Screenshot 2026-03-15 at 11.04.52 PM.png
+-rw-r--r--@  1 ritchit  staff   315727 Mar 15 17:58 Screenshot 2026-03-15 at 5.57.54 PM.png
+-rw-r--r--@  1 ritchit  staff   135596 Mar 17 15:30 Screenshot 2026-03-17 at 3.30.02 PM.png
+-rw-r--r--@  1 ritchit  staff   130590 Mar 17 15:42 Screenshot 2026-03-17 at 3.42.13 PM.png
+-rw-r--r--@  1 ritchit  staff   115755 Mar 17 15:43 Screenshot 2026-03-17 at 3.43.14 PM.png
+-rw-r--r--@  1 ritchit  staff   103198 Mar 17 15:44 Screenshot 2026-03-17 at 3.44.20 PM.png
+-rw-r--r--@  1 ritchit  staff   157047 Mar 17 15:46 Screenshot 2026-03-17 at 3.46.25 PM.png
+-rw-r--r--@  1 ritchit  staff   115887 Mar 17 15:48 Screenshot 2026-03-17 at 3.47.51 PM.png
+-rw-r--r--@  1 ritchit  staff    84102 Mar 17 15:53 Screenshot 2026-03-17 at 3.53.04 PM.png
+-rw-r--r--@  1 ritchit  staff   112064 Mar 17 16:06 Screenshot 2026-03-17 at 4.06.16 PM.png
+-rw-r--r--@  1 ritchit  staff   112799 Mar 17 16:07 Screenshot 2026-03-17 at 4.07.08 PM.png
+-rw-r--r--@  1 ritchit  staff   154730 Mar 17 06:21 Screenshot 2026-03-17 at 6.21.53 AM.png
+-rw-r--r--@  1 ritchit  staff   768788 Mar 17 18:52 Screenshot 2026-03-17 at 6.52.06 PM.png
+-rw-r--r--@  1 ritchit  staff   816251 Mar 17 19:01 Screenshot 2026-03-17 at 7.01.25 PM.png
+-rw-r--r--@  1 ritchit  staff   475431 Mar 17 19:03 Screenshot 2026-03-17 at 7.03.12 PM.png
+-rw-r--r--@  1 ritchit  staff  1257406 Mar  3 16:24 US20250117197A1.pdf
+(base) 
+~/Desktop via 🐍 v3.13.5 (venv) 
+❯ ls -la
+total 36664
+drwx------+ 64 ritchit  staff     2048 Mar 17 22:58 .
+drwxr-x---+ 53 ritchit  staff     1696 Mar 17 22:56 ..
+-rw-r--r--@  1 ritchit  staff    18436 Mar 17 22:58 .DS_Store
+-rw-r--r--@  1 ritchit  staff      279 Mar 17 22:32 .env.txt
+-rw-r--r--   1 ritchit  staff        0 Dec 26 08:10 .localized
+drwxr-xr-x   6 ritchit  staff      192 Dec 29 07:35 360
+drwxr-xr-x  11 ritchit  staff      352 Mar  6 00:02 DW Takeaways
+drwxr-xr-x@  6 ritchit  staff      192 Mar 17 22:58 gbif-bias-pipeline
+drwxr-xr-x  12 ritchit  staff      384 Mar  2 22:44 KNIME Docs
+-rw-r--r--@  1 ritchit  staff   200462 Jan  5 23:57 Pragnaya Priyadarshini i797.jpg
+-rw-r--r--@  1 ritchit  staff   816902 Mar  7 10:08 Screenshot 2026-03-07 at 10.08.54 AM.png
+-rw-r--r--@  1 ritchit  staff  1797233 Mar  8 09:18 Screenshot 2026-03-08 at 9.18.22 AM.png
+-rw-r--r--@  1 ritchit  staff   262594 Mar 10 12:26 Screenshot 2026-03-10 at 12.26.50 PM.png
+-rw-r--r--@  1 ritchit  staff   265947 Mar 10 14:00 Screenshot 2026-03-10 at 2.00.03 PM.png
+-rw-r--r--@  1 ritchit  staff   278722 Mar 10 14:01 Screenshot 2026-03-10 at 2.01.24 PM.png
+-rw-r--r--@  1 ritchit  staff   319317 Mar 10 14:13 Screenshot 2026-03-10 at 2.13.43 PM.png
+-rw-r--r--@  1 ritchit  staff   184053 Mar 10 14:15 Screenshot 2026-03-10 at 2.14.52 PM.png
+-rw-r--r--@  1 ritchit  staff   213979 Mar 10 14:18 Screenshot 2026-03-10 at 2.18.36 PM.png
+-rw-r--r--@  1 ritchit  staff   215015 Mar 10 14:19 Screenshot 2026-03-10 at 2.19.15 PM.png
+-rw-r--r--@  1 ritchit  staff   100654 Mar 10 14:21 Screenshot 2026-03-10 at 2.21.07 PM.png
+-rw-r--r--@  1 ritchit  staff   221815 Mar 10 14:26 Screenshot 2026-03-10 at 2.25.52 PM.png
+-rw-r--r--@  1 ritchit  staff   187093 Mar 10 14:34 Screenshot 2026-03-10 at 2.34.49 PM.png
+-rw-r--r--@  1 ritchit  staff   221090 Mar 10 16:06 Screenshot 2026-03-10 at 4.06.02 PM.png
+-rw-r--r--@  1 ritchit  staff   125976 Mar 10 16:20 Screenshot 2026-03-10 at 4.20.17 PM.png
+-rw-r--r--@  1 ritchit  staff   304399 Mar 10 16:21 Screenshot 2026-03-10 at 4.21.38 PM.png
+-rw-r--r--@  1 ritchit  staff    74695 Mar 10 16:42 Screenshot 2026-03-10 at 4.42.19 PM.png
+-rw-r--r--@  1 ritchit  staff    63213 Mar 10 17:07 Screenshot 2026-03-10 at 5.07.42 PM.png
+-rw-r--r--@  1 ritchit  staff   157050 Mar 10 17:50 Screenshot 2026-03-10 at 5.50.49 PM.png
+-rw-r--r--@  1 ritchit  staff    61023 Mar 10 17:57 Screenshot 2026-03-10 at 5.57.54 PM.png
+-rw-r--r--@  1 ritchit  staff   147088 Mar 11 00:29 Screenshot 2026-03-11 at 12.29.17 AM.png
+-rw-r--r--@  1 ritchit  staff   779766 Mar 12 01:12 Screenshot 2026-03-12 at 1.12.38 AM.png
+-rw-r--r--@  1 ritchit  staff   736533 Mar 12 01:17 Screenshot 2026-03-12 at 1.17.10 AM.png
+-rw-r--r--@  1 ritchit  staff   103879 Mar 12 01:19 Screenshot 2026-03-12 at 1.19.09 AM.png
+-rw-r--r--@  1 ritchit  staff   369864 Mar 12 01:24 Screenshot 2026-03-12 at 1.24.08 AM.png
+-rw-r--r--@  1 ritchit  staff   221020 Mar 12 01:30 Screenshot 2026-03-12 at 1.30.00 AM.png
+-rw-r--r--@  1 ritchit  staff   890720 Mar 12 23:25 Screenshot 2026-03-12 at 11.25.00 PM.png
+-rw-r--r--@  1 ritchit  staff   364545 Mar 12 00:25 Screenshot 2026-03-12 at 12.25.13 AM.png
+-rw-r--r--@  1 ritchit  staff   332629 Mar 13 13:26 Screenshot 2026-03-13 at 1.26.25 PM.png
+-rw-r--r--@  1 ritchit  staff   115268 Mar 13 10:21 Screenshot 2026-03-13 at 10.21.16 AM.png
+-rw-r--r--@  1 ritchit  staff   139883 Mar 13 10:23 Screenshot 2026-03-13 at 10.23.37 AM.png
+-rw-r--r--@  1 ritchit  staff   172266 Mar 13 11:23 Screenshot 2026-03-13 at 11.22.54 AM.png
+-rw-r--r--@  1 ritchit  staff   281805 Mar 13 09:42 Screenshot 2026-03-13 at 9.42.17 AM.png
+-rw-r--r--@  1 ritchit  staff   281805 Mar 13 09:42 Screenshot 2026-03-13 at 9.42.34 AM.png
+-rw-r--r--@  1 ritchit  staff   185578 Mar 13 09:49 Screenshot 2026-03-13 at 9.48.59 AM.png
+-rw-r--r--@  1 ritchit  staff   671763 Mar 14 09:42 Screenshot 2026-03-14 at 9.42.00 AM.png
+-rw-r--r--@  1 ritchit  staff   890606 Mar 14 09:42 Screenshot 2026-03-14 at 9.42.14 AM.png
+-rw-r--r--@  1 ritchit  staff   280948 Mar 14 09:42 Screenshot 2026-03-14 at 9.42.37 AM.png
+-rw-r--r--@  1 ritchit  staff   356004 Mar 15 23:02 Screenshot 2026-03-15 at 11.02.46 PM.png
+-rw-r--r--@  1 ritchit  staff   382348 Mar 15 23:04 Screenshot 2026-03-15 at 11.04.52 PM.png
+-rw-r--r--@  1 ritchit  staff   315727 Mar 15 17:58 Screenshot 2026-03-15 at 5.57.54 PM.png
+-rw-r--r--@  1 ritchit  staff   135596 Mar 17 15:30 Screenshot 2026-03-17 at 3.30.02 PM.png
+-rw-r--r--@  1 ritchit  staff   130590 Mar 17 15:42 Screenshot 2026-03-17 at 3.42.13 PM.png
+-rw-r--r--@  1 ritchit  staff   115755 Mar 17 15:43 Screenshot 2026-03-17 at 3.43.14 PM.png
+-rw-r--r--@  1 ritchit  staff   103198 Mar 17 15:44 Screenshot 2026-03-17 at 3.44.20 PM.png
+-rw-r--r--@  1 ritchit  staff   157047 Mar 17 15:46 Screenshot 2026-03-17 at 3.46.25 PM.png
+-rw-r--r--@  1 ritchit  staff   115887 Mar 17 15:48 Screenshot 2026-03-17 at 3.47.51 PM.png
+-rw-r--r--@  1 ritchit  staff    84102 Mar 17 15:53 Screenshot 2026-03-17 at 3.53.04 PM.png
+-rw-r--r--@  1 ritchit  staff   112064 Mar 17 16:06 Screenshot 2026-03-17 at 4.06.16 PM.png
+-rw-r--r--@  1 ritchit  staff   112799 Mar 17 16:07 Screenshot 2026-03-17 at 4.07.08 PM.png
+-rw-r--r--@  1 ritchit  staff   154730 Mar 17 06:21 Screenshot 2026-03-17 at 6.21.53 AM.png
+-rw-r--r--@  1 ritchit  staff   768788 Mar 17 18:52 Screenshot 2026-03-17 at 6.52.06 PM.png
+-rw-r--r--@  1 ritchit  staff   816251 Mar 17 19:01 Screenshot 2026-03-17 at 7.01.25 PM.png
+-rw-r--r--@  1 ritchit  staff   475431 Mar 17 19:03 Screenshot 2026-03-17 at 7.03.12 PM.png
+-rw-r--r--@  1 ritchit  staff  1257406 Mar  3 16:24 US20250117197A1.pdf
+(base) 
+~/Desktop via 🐍 v3.13.5 (venv) 
+❯ mv .env.txt gbif-bias-pipeline/.env
+(base) 
+~/Desktop via 🐍 v3.13.5 (venv) 
+❯ cd gbif-bias-pipeline 
+(base) 
+~/Desktop/gbif-bias-pipeline via 🐍 v3.13.5 (venv) 
+❯ python3 gbif_to_mongo.py --total 100000
+23:01:16  Testing MongoDB connection...
+23:01:16  Connection failed: The DNS query name does not exist: _mongodb._tcp.cluster0.xxxxx.mongodb.net.
+23:01:16    Fix: check MONGO_URI at top of this file
+23:01:16    Fix: add 0.0.0.0/0 to Atlas Network Access whitelist
+(base) 
+~/Desktop/gbif-bias-pipeline via 🐍 v3.13.5 (venv) 
+❯ python3 gbif_to_mongo.py --total 100000
+23:04:47  Testing MongoDB connection...
+23:04:48  MongoDB connected OK
+23:04:48  Fetching 0 / 100,000 ...
+/Users/ritchit/Desktop/gbif-bias-pipeline/gbif_to_mongo.py:45: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  doc["_ingested_at"] = datetime.datetime.utcnow()
+23:05:13  Fetching 300 / 100,000 ...
+23:05:37  Fetching 600 / 100,000 ...
+23:06:01  Fetching 900 / 100,000 ...
+23:06:26  Fetching 1,200 / 100,000 ...
+23:06:52  Fetching 1,500 / 100,000 ...
+23:07:18  Fetching 1,800 / 100,000 ...
+23:07:43  Fetching 2,100 / 100,000 ...
+23:08:12  Fetching 2,400 / 100,000 ...
+23:08:42  Fetching 2,700 / 100,000 ...
+23:09:14  Fetching 3,000 / 100,000 ...
+23:09:48  Fetching 3,300 / 100,000 ...
+23:10:12  Fetching 3,600 / 100,000 ...
+23:10:37  Fetching 3,900 / 100,000 ...
+23:11:02  Fetching 4,200 / 100,000 ...
+23:11:27  Fetching 4,500 / 100,000 ...
+23:11:52  Fetching 4,800 / 100,000 ...
+23:12:16  Fetching 5,100 / 100,000 ...
+23:12:41  Fetching 5,400 / 100,000 ...
+23:13:06  Fetching 5,700 / 100,000 ...
+23:13:31  Fetching 6,000 / 100,000 ...
+23:13:55  Fetching 6,300 / 100,000 ...
+23:14:19  Fetching 6,600 / 100,000 ...
+23:14:44  Fetching 6,900 / 100,000 ...
+23:15:08  Fetching 7,200 / 100,000 ...
+23:15:33  Fetching 7,500 / 100,000 ...
+23:15:59  Fetching 7,800 / 100,000 ...
+23:16:24  Fetching 8,100 / 100,000 ...
+23:16:49  Fetching 8,400 / 100,000 ...
+23:17:14  Fetching 8,700 / 100,000 ...
+23:17:49  Fetching 9,000 / 100,000 ...
+23:17:49  GBIF API error at offset 9000: 503 Server Error: Service Unavailable for url: https://api.gbif.org/v1/occurrence/search?taxonKey=212&occurrenceStatus=PRESENT&hasCoordinate=true&hasGeospatialIssue=false&limit=300&offset=9000
+23:17:49    This usually means offset+limit exceeded 100,000
+23:17:49  ========================================
+23:17:49  Done in 781s (~13m 1s)
+23:17:49  Inserted : 9,000
+23:17:49  Skipped  : 0  (duplicates — safe)
+23:17:49  Total in MongoDB: 9,000
+(base) 
+~/Desktop/gbif-bias-pipeline via 🐍 v3.13.5 (venv) took 13m3s 
+❯ python3 gbif_to_mongo.py --total 100000 --resume-from 9000
+23:20:59  Testing MongoDB connection...
+23:21:00  MongoDB connected OK
+23:21:00  Records already in MongoDB: 9,000
+23:21:00  Target: 100,000 records total
+23:21:00  Fetching 9,000 / 100,000 ...
+23:21:27  Fetching 9,300 / 100,000 ...
+23:21:53  Fetching 9,600 / 100,000 ...
+23:22:19  Fetching 9,900 / 100,000 ...
+23:22:44  Fetching 10,200 / 100,000 ...
+23:23:40  Fetching 10,500 / 100,000 ...
+23:24:37  Fetching 10,800 / 100,000 ...
+23:25:33  Fetching 11,100 / 100,000 ...
+23:26:39  Fetching 11,400 / 100,000 ...
+23:27:52  Fetching 11,700 / 100,000 ...
+23:29:03    → 3,000 inserted | 0 skipped | ETA ~260m 17s
+23:29:03  Fetching 12,000 / 100,000 ...
+23:30:18  Fetching 12,300 / 100,000 ...
+23:31:34  Fetching 12,600 / 100,000 ...
+23:32:46  Fetching 12,900 / 100,000 ...
+23:33:56  Fetching 13,200 / 100,000 ...
+23:35:12  Fetching 13,500 / 100,000 ...
+23:36:25  Fetching 13,800 / 100,000 ...
+23:37:39  Fetching 14,100 / 100,000 ...
+23:38:51  Fetching 14,400 / 100,000 ...
+23:40:01  Fetching 14,700 / 100,000 ...
+23:41:15    → 6,000 inserted | 0 skipped | ETA ~317m 15s
+23:41:15  Fetching 15,000 / 100,000 ...
+23:42:30  Fetching 15,300 / 100,000 ...
+23:43:42  Fetching 15,600 / 100,000 ...
+23:44:54  Fetching 15,900 / 100,000 ...
+23:46:08  Fetching 16,200 / 100,000 ...
+23:47:18  Fetching 16,500 / 100,000 ...
+23:48:32  Fetching 16,800 / 100,000 ...
+23:49:45  Fetching 17,100 / 100,000 ...
+23:51:12  Fetching 17,400 / 100,000 ...
+23:52:26  Fetching 17,700 / 100,000 ...
+23:53:38    → 9,000 inserted | 0 skipped | ETA ~329m 57s
+23:53:38  Fetching 18,000 / 100,000 ...
+23:54:52  Fetching 18,300 / 100,000 ...
+23:56:05  Fetching 18,600 / 100,000 ...
+23:57:18  Fetching 18,900 / 100,000 ...
+23:58:30  Fetching 19,200 / 100,000 ...
+23:59:46  Fetching 19,500 / 100,000 ...
+00:01:00  Fetching 19,800 / 100,000 ...
+00:02:13  Fetching 20,100 / 100,000 ...
+00:03:28  Fetching 20,400 / 100,000 ...
+00:04:41  Fetching 20,700 / 100,000 ...
+00:05:57    → 12,000 inserted | 0 skipped | ETA ~329m 30s
+00:05:57  Fetching 21,000 / 100,000 ...
+00:07:07  Fetching 21,300 / 100,000 ...
+00:08:19  Fetching 21,600 / 100,000 ...
+00:09:32  Fetching 21,900 / 100,000 ...
+00:10:47  Fetching 22,200 / 100,000 ...
+00:12:02  Fetching 22,500 / 100,000 ...
+00:13:23  Fetching 22,800 / 100,000 ...
+00:14:39  Fetching 23,100 / 100,000 ...
+00:15:56  Fetching 23,400 / 100,000 ...
+00:17:13  Fetching 23,700 / 100,000 ...
+00:18:26    → 15,000 inserted | 0 skipped | ETA ~325m 27s
+00:18:26  Fetching 24,000 / 100,000 ...
+00:19:38  Fetching 24,300 / 100,000 ...
+00:20:49  Fetching 24,600 / 100,000 ...
+00:22:00  Fetching 24,900 / 100,000 ...
+00:23:12  Fetching 25,200 / 100,000 ...
+00:24:26  Fetching 25,500 / 100,000 ...
+00:25:33  Fetching 25,800 / 100,000 ...
+00:26:40  Fetching 26,100 / 100,000 ...
+00:27:50  Fetching 26,400 / 100,000 ...
+00:29:05  Fetching 26,700 / 100,000 ...
+00:30:19    → 18,000 inserted | 0 skipped | ETA ~315m 46s
+00:30:19  Fetching 27,000 / 100,000 ...
+00:31:32  Fetching 27,300 / 100,000 ...
+00:32:45  Fetching 27,600 / 100,000 ...
+00:33:58  Fetching 27,900 / 100,000 ...
+00:35:11  Fetching 28,200 / 100,000 ...
+00:36:24  Fetching 28,500 / 100,000 ...
+00:37:34  Fetching 28,800 / 100,000 ...
+00:38:49  Fetching 29,100 / 100,000 ...
+00:40:04  Fetching 29,400 / 100,000 ...
+00:41:19  Fetching 29,700 / 100,000 ...
+00:42:32    → 21,000 inserted | 0 skipped | ETA ~306m 43s
+00:42:32  Fetching 30,000 / 100,000 ...
+00:43:49  Fetching 30,300 / 100,000 ...
+00:45:02  Fetching 30,600 / 100,000 ...
+00:46:14  Fetching 30,900 / 100,000 ...
+00:47:26  Fetching 31,200 / 100,000 ...
+00:48:40  Fetching 31,500 / 100,000 ...
+00:49:53  Fetching 31,800 / 100,000 ...
+00:51:06  Fetching 32,100 / 100,000 ...
+00:52:20  Fetching 32,400 / 100,000 ...
+00:53:33  Fetching 32,700 / 100,000 ...
+00:54:48    → 24,000 inserted | 0 skipped | ETA ~297m 2s
+00:54:48  Fetching 33,000 / 100,000 ...
+00:56:03  Fetching 33,300 / 100,000 ...
+00:57:17  Fetching 33,600 / 100,000 ...
+00:58:28  Fetching 33,900 / 100,000 ...
+00:59:41  Fetching 34,200 / 100,000 ...
+01:00:58  Fetching 34,500 / 100,000 ...
+01:02:16  Fetching 34,800 / 100,000 ...
+01:03:38  Fetching 35,100 / 100,000 ...
+01:04:58  Fetching 35,400 / 100,000 ...
+01:06:09  Fetching 35,700 / 100,000 ...
+01:07:49    → 27,000 inserted | 0 skipped | ETA ~288m 48s
+01:07:49  Fetching 36,000 / 100,000 ...
+01:09:05  Fetching 36,300 / 100,000 ...
+01:10:21  Fetching 36,600 / 100,000 ...
+01:11:31  Fetching 36,900 / 100,000 ...
+01:12:48  Fetching 37,200 / 100,000 ...
+01:13:59  Fetching 37,500 / 100,000 ...
+01:15:13  Fetching 37,800 / 100,000 ...
+01:16:30  Fetching 38,100 / 100,000 ...
+01:17:40  Fetching 38,400 / 100,000 ...
+01:18:58  Fetching 38,700 / 100,000 ...
+01:20:12    → 30,000 inserted | 0 skipped | ETA ~278m 5s
+01:20:12  Fetching 39,000 / 100,000 ...
+01:21:29  Fetching 39,300 / 100,000 ...
+01:22:41  Fetching 39,600 / 100,000 ...
+01:23:55  Fetching 39,900 / 100,000 ...
+01:25:08  Fetching 40,200 / 100,000 ...
+01:26:23  Fetching 40,500 / 100,000 ...
+01:27:34  Fetching 40,800 / 100,000 ...
+01:28:50  Fetching 41,100 / 100,000 ...
+01:30:06  Fetching 41,400 / 100,000 ...
+01:31:20  Fetching 41,700 / 100,000 ...
+01:32:35    → 33,000 inserted | 0 skipped | ETA ~267m 7s
+01:32:35  Fetching 42,000 / 100,000 ...
+01:33:47  Fetching 42,300 / 100,000 ...
+01:35:05  Fetching 42,600 / 100,000 ...
+01:36:18  Fetching 42,900 / 100,000 ...
+01:37:29  Fetching 43,200 / 100,000 ...
+01:38:42  Fetching 43,500 / 100,000 ...
+01:39:57  Fetching 43,800 / 100,000 ...
+01:39:58  GBIF 503 (attempt 1/5) — waiting 30s then retrying...
+01:41:42  Fetching 44,100 / 100,000 ...
+01:42:53  Fetching 44,400 / 100,000 ...
+01:44:04  Fetching 44,700 / 100,000 ...
+01:45:16    → 36,000 inserted | 0 skipped | ETA ~256m 28s
+01:45:16  Fetching 45,000 / 100,000 ...
+01:46:34  Fetching 45,300 / 100,000 ...
+01:47:48  Fetching 45,600 / 100,000 ...
+01:49:01  Fetching 45,900 / 100,000 ...
+01:49:01  GBIF 503 (attempt 1/5) — waiting 30s then retrying...
+01:50:47  Fetching 46,200 / 100,000 ...
+01:52:00  Fetching 46,500 / 100,000 ...
+01:53:11  Fetching 46,800 / 100,000 ...
+01:54:26  Fetching 47,100 / 100,000 ...
+01:55:40  Fetching 47,400 / 100,000 ...
+01:56:53  Fetching 47,700 / 100,000 ...
+01:58:06    → 39,000 inserted | 0 skipped | ETA ~245m 41s
+01:58:06  Fetching 48,000 / 100,000 ...
+01:59:25  Fetching 48,300 / 100,000 ...
+02:00:40  Fetching 48,600 / 100,000 ...
+02:00:40  GBIF 503 (attempt 1/5) — waiting 30s then retrying...
+02:02:25  Fetching 48,900 / 100,000 ...
+02:03:38  Fetching 49,200 / 100,000 ...
+02:04:50  Fetching 49,500 / 100,000 ...
+02:06:04  Fetching 49,800 / 100,000 ...
+02:07:30  Fetching 50,100 / 100,000 ...
+02:08:48  Fetching 50,400 / 100,000 ...
+02:10:02  Fetching 50,700 / 100,000 ...
+02:11:25    → 42,000 inserted | 0 skipped | ETA ~235m 18s
+02:11:25  Fetching 51,000 / 100,000 ...
+02:12:49  Fetching 51,300 / 100,000 ...
+02:14:08  Fetching 51,600 / 100,000 ...
+02:15:24  Fetching 51,900 / 100,000 ...
+02:16:35  Fetching 52,200 / 100,000 ...
+02:17:54  Fetching 52,500 / 100,000 ...
+02:19:11  Fetching 52,800 / 100,000 ...
+02:20:28  Fetching 53,100 / 100,000 ...
+02:21:40  Fetching 53,400 / 100,000 ...
+02:22:55  Fetching 53,700 / 100,000 ...
+02:24:11    → 45,000 inserted | 0 skipped | ETA ~223m 52s
+02:24:11  Fetching 54,000 / 100,000 ...
+02:25:20  Fetching 54,300 / 100,000 ...
+02:26:34  Fetching 54,600 / 100,000 ...
+02:27:48  Fetching 54,900 / 100,000 ...
+02:29:06  Fetching 55,200 / 100,000 ...
+02:30:22  Fetching 55,500 / 100,000 ...
+02:31:37  Fetching 55,800 / 100,000 ...
+02:32:51  Fetching 56,100 / 100,000 ...
+02:34:05  Fetching 56,400 / 100,000 ...
+02:35:32  Fetching 56,700 / 100,000 ...
+02:36:47    → 48,000 inserted | 0 skipped | ETA ~212m 4s
+02:36:47  Fetching 57,000 / 100,000 ...
+02:37:56  Fetching 57,300 / 100,000 ...
+02:39:08  Fetching 57,600 / 100,000 ...
+02:40:21  Fetching 57,900 / 100,000 ...
+02:41:37  Fetching 58,200 / 100,000 ...
+02:42:51  Fetching 58,500 / 100,000 ...
+02:44:03  Fetching 58,800 / 100,000 ...
+02:45:13  Fetching 59,100 / 100,000 ...
+02:46:30  Fetching 59,400 / 100,000 ...
+02:47:43  Fetching 59,700 / 100,000 ...
+02:49:08    → 51,000 inserted | 0 skipped | ETA ~199m 57s
+02:49:08  Fetching 60,000 / 100,000 ...
+02:50:25  Fetching 60,300 / 100,000 ...
+02:51:40  Fetching 60,600 / 100,000 ...
+02:52:56  Fetching 60,900 / 100,000 ...
+02:54:16  Fetching 61,200 / 100,000 ...
+02:55:29  Fetching 61,500 / 100,000 ...
+02:56:45  Fetching 61,800 / 100,000 ...
+02:58:01  Fetching 62,100 / 100,000 ...
+02:59:16  Fetching 62,400 / 100,000 ...
+03:00:28  Fetching 62,700 / 100,000 ...
+03:01:47    → 54,000 inserted | 0 skipped | ETA ~188m 3s
+03:01:47  Fetching 63,000 / 100,000 ...
+03:03:02  Fetching 63,300 / 100,000 ...
+03:04:17  Fetching 63,600 / 100,000 ...
+03:05:32  Fetching 63,900 / 100,000 ...
+03:06:45  Fetching 64,200 / 100,000 ...
+03:07:59  Fetching 64,500 / 100,000 ...
+03:09:16  Fetching 64,800 / 100,000 ...
+03:10:35  Fetching 65,100 / 100,000 ...
+03:11:46  Fetching 65,400 / 100,000 ...
+03:13:02  Fetching 65,700 / 100,000 ...
+03:14:17    → 57,000 inserted | 0 skipped | ETA ~175m 59s
+03:14:17  Fetching 66,000 / 100,000 ...
+03:15:28  Fetching 66,300 / 100,000 ...
+03:16:44  Fetching 66,600 / 100,000 ...
+03:18:01  Fetching 66,900 / 100,000 ...
+03:19:14  Fetching 67,200 / 100,000 ...
+03:20:37  Fetching 67,500 / 100,000 ...
+03:21:55  Fetching 67,800 / 100,000 ...
+03:21:56  GBIF 503 (attempt 1/5) — waiting 30s then retrying...
+03:23:45  Fetching 68,100 / 100,000 ...
+03:25:00  Fetching 68,400 / 100,000 ...
+03:26:11  Fetching 68,700 / 100,000 ...
+03:27:27    → 60,000 inserted | 0 skipped | ETA ~164m 17s
+03:27:27  Fetching 69,000 / 100,000 ...
+03:28:42  Fetching 69,300 / 100,000 ...
+03:30:01  Fetching 69,600 / 100,000 ...
+03:31:17  Fetching 69,900 / 100,000 ...
+03:32:34  Fetching 70,200 / 100,000 ...
+03:33:46  Fetching 70,500 / 100,000 ...
+03:34:55  Fetching 70,800 / 100,000 ...
+03:36:07  Fetching 71,100 / 100,000 ...
+03:37:23  Fetching 71,400 / 100,000 ...
+03:38:34  Fetching 71,700 / 100,000 ...
+03:39:51    → 63,000 inserted | 0 skipped | ETA ~152m 1s
+03:39:51  Fetching 72,000 / 100,000 ...
+03:41:14  Fetching 72,300 / 100,000 ...
+03:42:31  Fetching 72,600 / 100,000 ...
+03:43:50  Fetching 72,900 / 100,000 ...
+03:45:00  Fetching 73,200 / 100,000 ...
+03:46:14  Fetching 73,500 / 100,000 ...
+03:47:27  Fetching 73,800 / 100,000 ...
+03:48:39  Fetching 74,100 / 100,000 ...
+03:49:50  Fetching 74,400 / 100,000 ...
+03:51:04  Fetching 74,700 / 100,000 ...
+03:52:24    → 66,000 inserted | 0 skipped | ETA ~139m 48s
+03:52:24  Fetching 75,000 / 100,000 ...
+03:53:37  Fetching 75,300 / 100,000 ...
+03:54:49  Fetching 75,600 / 100,000 ...
+03:55:58  Fetching 75,900 / 100,000 ...
+03:57:12  Fetching 76,200 / 100,000 ...
+03:58:27  Fetching 76,500 / 100,000 ...
+03:59:43  Fetching 76,800 / 100,000 ...
+04:01:01  Fetching 77,100 / 100,000 ...
+04:02:22  Fetching 77,400 / 100,000 ...
+04:03:40  Fetching 77,700 / 100,000 ...
+04:04:57    → 69,000 inserted | 0 skipped | ETA ~127m 33s
+04:04:57  Fetching 78,000 / 100,000 ...
+04:06:19  Fetching 78,300 / 100,000 ...
+04:07:38  Fetching 78,600 / 100,000 ...
+04:08:58  Fetching 78,900 / 100,000 ...
+04:10:16  Fetching 79,200 / 100,000 ...
+04:11:40  Fetching 79,500 / 100,000 ...
+04:13:05  Fetching 79,800 / 100,000 ...
+04:14:24  Fetching 80,100 / 100,000 ...
+04:15:47  Fetching 80,400 / 100,000 ...
+04:17:07  Fetching 80,700 / 100,000 ...
+04:18:28    → 72,000 inserted | 0 skipped | ETA ~115m 40s
+04:18:28  Fetching 81,000 / 100,000 ...
+04:19:49  Fetching 81,300 / 100,000 ...
+04:20:55  Fetching 81,600 / 100,000 ...
+04:22:02  Fetching 81,900 / 100,000 ...
+04:23:07  Fetching 82,200 / 100,000 ...
+04:24:15  Fetching 82,500 / 100,000 ...
+04:25:19  Fetching 82,800 / 100,000 ...
+04:26:24  Fetching 83,100 / 100,000 ...
+04:27:28  Fetching 83,400 / 100,000 ...
+04:28:37  Fetching 83,700 / 100,000 ...
+04:29:42    → 75,000 inserted | 0 skipped | ETA ~102m 53s
+04:29:42  Fetching 84,000 / 100,000 ...
+04:30:46  Fetching 84,300 / 100,000 ...
+04:31:52  Fetching 84,600 / 100,000 ...
+04:32:57  Fetching 84,900 / 100,000 ...
+04:34:06  Fetching 85,200 / 100,000 ...
+04:35:08  Fetching 85,500 / 100,000 ...
+04:36:18  Fetching 85,800 / 100,000 ...
+04:37:23  Fetching 86,100 / 100,000 ...
+04:38:29  Fetching 86,400 / 100,000 ...
+04:39:31  Fetching 86,700 / 100,000 ...
+04:40:36    → 78,000 inserted | 0 skipped | ETA ~90m 8s
+04:40:36  Fetching 87,000 / 100,000 ...
+04:41:39  Fetching 87,300 / 100,000 ...
+04:42:44  Fetching 87,600 / 100,000 ...
+04:43:46  Fetching 87,900 / 100,000 ...
+04:44:51  Fetching 88,200 / 100,000 ...
+04:45:54  Fetching 88,500 / 100,000 ...
+04:47:02  Fetching 88,800 / 100,000 ...
+04:48:11  Fetching 89,100 / 100,000 ...
+04:49:17  Fetching 89,400 / 100,000 ...
+04:50:24  Fetching 89,700 / 100,000 ...
+04:51:24    → 81,000 inserted | 0 skipped | ETA ~77m 30s
+04:51:24  Fetching 90,000 / 100,000 ...
+04:52:34  Fetching 90,300 / 100,000 ...
+04:53:41  Fetching 90,600 / 100,000 ...
+04:54:50  Fetching 90,900 / 100,000 ...
+04:55:54  Fetching 91,200 / 100,000 ...
+04:56:58  Fetching 91,500 / 100,000 ...
+04:58:06  Fetching 91,800 / 100,000 ...
+04:59:11  Fetching 92,100 / 100,000 ...
+05:00:18  Fetching 92,400 / 100,000 ...
+05:01:25  Fetching 92,700 / 100,000 ...
+05:02:37    → 84,000 inserted | 0 skipped | ETA ~65m 4s
+05:02:37  Fetching 93,000 / 100,000 ...
+05:04:00  Fetching 93,300 / 100,000 ...
+05:05:01  Fetching 93,600 / 100,000 ...
+05:06:13  Fetching 93,900 / 100,000 ...
+05:07:17  Fetching 94,200 / 100,000 ...
+05:08:25  Fetching 94,500 / 100,000 ...
+05:09:30  Fetching 94,800 / 100,000 ...
+05:10:40  Fetching 95,100 / 100,000 ...
+05:11:47  Fetching 95,400 / 100,000 ...
+05:12:55  Fetching 95,700 / 100,000 ...
+05:14:00    → 87,000 inserted | 0 skipped | ETA ~52m 44s
+05:14:00  Fetching 96,000 / 100,000 ...
+05:15:11  Fetching 96,300 / 100,000 ...
+05:16:19  Fetching 96,600 / 100,000 ...
+05:17:22  Fetching 96,900 / 100,000 ...
+05:18:30  Fetching 97,200 / 100,000 ...
+05:19:42  Fetching 97,500 / 100,000 ...
+05:20:50  Fetching 97,800 / 100,000 ...
+05:21:51  Fetching 98,100 / 100,000 ...
+05:22:55  Fetching 98,400 / 100,000 ...
+05:24:05  Fetching 98,700 / 100,000 ...
+05:25:12    → 90,000 inserted | 0 skipped | ETA ~40m 27s
+05:25:12  Fetching 99,000 / 100,000 ...
+05:26:14  Fetching 99,300 / 100,000 ...
+05:27:22  Fetching 99,600 / 100,000 ...
+05:28:24  Fetching 99,900 / 100,000 ...
+Traceback (most recent call last):
+  File "/Users/ritchit/Desktop/gbif-bias-pipeline/gbif_to_mongo.py", line 151, in <module>
+    ingest(args.total, args.resume_from)
+    ~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/ritchit/Desktop/gbif-bias-pipeline/gbif_to_mongo.py", line 98, in ingest
+    data = fetch_batch(offset)
+  File "/Users/ritchit/Desktop/gbif-bias-pipeline/gbif_to_mongo.py", line 43, in fetch_batch
+    resp.raise_for_status()
+    ~~~~~~~~~~~~~~~~~~~~~^^
+  File "/Users/ritchit/Desktop/gbif-bias-pipeline/venv/lib/python3.13/site-packages/requests/models.py", line 1026, in raise_for_status
+    raise HTTPError(http_error_msg, response=self)
+requests.exceptions.HTTPError: 400 Client Error: Bad Request for url: https://api.gbif.org/v1/occurrence/search?taxonKey=212&occurrenceStatus=PRESENT&hasCoordinate=true&hasGeospatialIssue=false&limit=300&offset=99900
+(base) 
+~/Desktop/gbif-bias-pipeline via 🐍 v3.13.5 (venv) took 6h7m27s 
+❯ 
+  [Restored Mar 21, 2026 at 8:02:30 PM]
+Last login: Sat Mar 21 20:02:23 on console
+Restored session: Sat Mar 21 20:01:22 PDT 2026
+(base) 
+~/Desktop/gbif-bias-pipeline via 🐍 v3.13.5 
+❯ 

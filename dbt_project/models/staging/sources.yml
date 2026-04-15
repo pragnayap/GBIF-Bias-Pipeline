@@ -1,0 +1,21 @@
+version: 2
+
+sources:
+  - name: gbif
+    database: workspace
+    schema: gbif
+    tables:
+      - name: silver_occurrences
+        columns:
+          - name: gbifID
+            tests: [unique, not_null]
+          - name: species
+            tests: [not_null]
+          - name: decimalLatitude
+            tests: [not_null]
+          - name: decimalLongitude
+            tests: [not_null]
+          - name: grid_cell
+            tests: [not_null]
+          - name: year
+            tests: [not_null]

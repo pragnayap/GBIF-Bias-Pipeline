@@ -1,0 +1,11 @@
+databricks_gbif:
+  target: dev
+  outputs:
+    dev:
+      type:       databricks
+      host:       dbc-00408dcf-dd4c.cloud.databricks.com
+      http_path:  /sql/1.0/warehouses/06f7df8dde54cfd1
+      token:      REDACTED_TOKEN
+      catalog:    workspace
+      schema:     marts
+      threads:    4

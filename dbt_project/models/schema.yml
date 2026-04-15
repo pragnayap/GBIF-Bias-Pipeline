@@ -1,0 +1,70 @@
+version: 2
+
+models:
+  - name: stg_occurrences
+    columns:
+      - name: occurrence_id
+        tests: [unique, not_null]
+      - name: species
+        tests: [not_null]
+      - name: latitude
+        tests: [not_null]
+      - name: longitude
+        tests: [not_null]
+      - name: grid_cell
+        tests: [not_null]
+      - name: year
+        tests: [not_null]
+  - name: dim_species
+    columns:
+      - name: species_key
+        tests: [unique, not_null]
+      - name: species
+        tests: [unique, not_null]
+  - name: dim_geography
+    columns:
+      - name: geo_key
+        tests: [unique, not_null]
+      - name: grid_cell
+        tests: [unique, not_null]
+      - name: continent
+        tests:
+          - not_null
+          - accepted_values:
+              values: ['North America','South America','Europe','Africa','Asia','Oceania','Antarctica','Other']
+  - name: dim_date
+    columns:
+      - name: date_key
+        tests: [unique, not_null]
+  - name: fact_observations
+    columns:
+      - name: occurrence_id
+        tests: [unique, not_null]
+      - name: species_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_species')
+              field: species_key
+      - name: geo_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_geography')
+              field: geo_key
+      - name: date_key
+        tests:
+          - not_null
+          - relationships:
+              to: ref('dim_date')
+              field: date_key
+  - name: bias_metrics
+    columns:
+      - name: geo_key
+        tests: [unique, not_null]
+      - name: bias_category
+        tests:
+          - accepted_values:
+              values: ['Severely undersampled','Moderately undersampled','Near average','Oversampled']
+  - name: monthly_distribution
+    description: "Observation counts by month and continent"
