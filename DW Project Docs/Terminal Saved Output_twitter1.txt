@@ -632,7 +632,7 @@ zsh: command not found: #
 ~/airflow took 2m51s 
 ❯ docker compose ps
 NAME                              IMAGE                  COMMAND                  SERVICE                 CREATED              STATUS                             PORTS
-airflow-airflow-apiserver-1       apache/airflow:3.1.8   "/usr/bin/dumb-init …"   airflow-apiserver       About a minute ago   Up About a minute (healthy)        0.0.0.0:8080->8080/tcp, [::]:8080->8080/tcp
+airflow-airflow-apiserver-1       apache/airflow:3.1.8   "/usr/bin/dumb-init …"   airflow-apiserver       About a minute ago   Up About a minute (healthy)        0.0.0.0:8080->8081/tcp, [::]:8080->8080/tcp
 airflow-airflow-dag-processor-1   apache/airflow:3.1.8   "/usr/bin/dumb-init …"   airflow-dag-processor   About a minute ago   Up About a minute (healthy)        8080/tcp
 airflow-airflow-scheduler-1       apache/airflow:3.1.8   "/usr/bin/dumb-init …"   airflow-scheduler       About a minute ago   Up About a minute (healthy)        8080/tcp
 airflow-airflow-triggerer-1       apache/airflow:3.1.8   "/usr/bin/dumb-init …"   airflow-triggerer       About a minute ago   Up About a minute (healthy)        8080/tcp
