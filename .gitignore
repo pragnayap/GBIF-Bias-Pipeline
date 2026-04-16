@@ -2,22 +2,47 @@
 venv/
 __pycache__/
 *.pyc
+*.pyo
+.Python
+*.egg-info/
+
+# Environment
 .env
+*.env
 
 # dbt
 dbt_project/target/
 dbt_project/dbt_packages/
 dbt_project/logs/
 
-# Tableau
-*.twb
-*.twbx
-*.hyper
+# Airflow
+logs/
+airflow.db
+airflow.cfg
+standalone_admin_password.txt
 
 # Data files
 *.csv
 *.json
 *.parquet
+*.hyper
+
+# Tableau
+*.twb
+*.twbx
 
 # Mac
 .DS_Store
+.AppleDouble
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+docker-compose.yaml
+.env.docker
