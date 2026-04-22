@@ -47,3 +47,4 @@ standalone_admin_password.txt
 docker-compose.yaml
 .env.docker
 dbt_project/profiles.yml
+dbt_project/profiles.yml
