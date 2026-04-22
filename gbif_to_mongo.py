@@ -1,8 +1,11 @@
-import datetime, logging, time, argparse
+import datetime, logging, time, argparse, os
 import requests
 import pymongo
+from dotenv import load_dotenv
 
-MONGO_URI  = "mongodb+srv://pragnaya:REDACTED_PASSWORD@dwp-cluster.mhebkb7.mongodb.net/gbif_birds"
+load_dotenv()
+
+MONGO_URI  = os.getenv("MONGO_URI", "mongodb+srv://localhost/gbif_birds")
 GBIF_BASE  = "https://api.gbif.org/v1/occurrence/search"
 BATCH_SIZE = 300
 SLEEP_SEC  = 1.0
@@ -12,19 +15,23 @@ logging.basicConfig(level=logging.INFO, format="%(asctime)s  %(message)s", datef
 log = logging.getLogger(__name__)
 
 KEEP_FIELDS = [
-    "gbifID","species","genus","family","order","class","kingdom",
-    "decimalLatitude","decimalLongitude","countryCode","stateProvince",
-    "eventDate","year","month","day","recordedBy","institutionCode",
-    "basisOfRecord","occurrenceStatus",
+    "gbifID", "species", "genus", "family", "order", "class", "kingdom",
+    "decimalLatitude", "decimalLongitude", "countryCode", "stateProvince",
+    "eventDate", "year", "month", "day", "recordedBy", "institutionCode",
+    "basisOfRecord", "occurrenceStatus",
 ]
+
 
 def fetch_batch(offset):
     for attempt in range(1, MAX_RETRY + 1):
         try:
             resp = requests.get(GBIF_BASE, params={
-                "taxonKey": 212, "occurrenceStatus": "PRESENT",
-                "hasCoordinate": "true", "hasGeospatialIssue": "false",
-                "limit": BATCH_SIZE, "offset": offset,
+                "taxonKey": 212,
+                "occurrenceStatus": "PRESENT",
+                "hasCoordinate": "true",
+                "hasGeospatialIssue": "false",
+                "limit": BATCH_SIZE,
+                "offset": offset,
             }, timeout=60)
             if resp.status_code == 503:
                 wait = attempt * 30
@@ -40,16 +47,22 @@ def fetch_batch(offset):
     log.error(f"All {MAX_RETRY} retries failed at offset {offset}. Skipping batch.")
     return None
 
+
 def clean(raw):
     doc = {k: raw.get(k) for k in KEEP_FIELDS}
     for f in ("decimalLatitude", "decimalLongitude"):
-        try: doc[f] = float(doc[f]) if doc[f] is not None else None
-        except: doc[f] = None
+        try:
+            doc[f] = float(doc[f]) if doc[f] is not None else None
+        except (TypeError, ValueError):
+            doc[f] = None
     for f in ("year", "month", "day"):
-        try: doc[f] = int(doc[f]) if doc[f] is not None else None
-        except: doc[f] = None
+        try:
+            doc[f] = int(doc[f]) if doc[f] is not None else None
+        except (TypeError, ValueError):
+            doc[f] = None
     doc["_ingested_at"] = datetime.datetime.now(datetime.timezone.utc)
     return doc
+
 
 def ingest(total=100_000, resume_from=0):
     log.info("Testing MongoDB connection...")
@@ -105,8 +118,8 @@ def ingest(total=100_000, resume_from=0):
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("--total",       type=int, default=100_000)
-    parser.add_argument("--resume-from", type=int, default=0)
+    parser = argparse.ArgumentParser(description="Ingest GBIF bird occurrences into MongoDB")
+    parser.add_argument("--total",       type=int, default=100_000, help="Target record count")
+    parser.add_argument("--resume-from", type=int, default=0,       help="Resume from offset")
     args = parser.parse_args()
     ingest(args.total, args.resume_from)
