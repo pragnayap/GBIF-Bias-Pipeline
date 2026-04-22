@@ -3,22 +3,23 @@ from airflow import DAG
 from airflow.providers.standard.operators.python import BranchPythonOperator, PythonOperator
 from airflow.providers.standard.operators.bash import BashOperator
 from airflow.providers.standard.operators.empty import EmptyOperator
-import sys
-sys.path.insert(0, '/Users/ritchit/Desktop/Data Warehouse/DW Term Project/gbif-bias-pipeline')
-from gbif_to_mongo import ingest
-import os
+import os, sys
 from dotenv import load_dotenv
+
 load_dotenv()
+
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+from gbif_to_mongo import ingest
 
 MONGO_URI        = os.getenv("MONGO_URI")
 DB_NAME          = "gbif_birds"
 COLLECTION       = "raw_occurrences"
 MIN_RECORDS      = 90_000
-DBT_DIR          = "/Users/ritchit/Desktop/Data Warehouse/DW Term Project/gbif-bias-pipeline/dbt_project"
+DBT_DIR          = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "dbt_project")
 DATABRICKS_HOST  = os.getenv("DATABRICKS_HOST")
 DATABRICKS_TOKEN = os.getenv("DATABRICKS_TOKEN")
 BRONZE_JOB_ID    = os.getenv("BRONZE_JOB_ID")
-SILVER_JOB_ID    = os.getenv("SILVER_JOB_ID") 
+SILVER_JOB_ID    = os.getenv("SILVER_JOB_ID")
 
 default_args = {
     "owner": "gbif_bias_pipeline",
@@ -42,8 +43,12 @@ dag = DAG(
 def check_mongo_count(**context):
     from pymongo import MongoClient
     from pymongo.server_api import ServerApi
-    client = MongoClient(MONGO_URI, server_api=ServerApi("1"),
-                         serverSelectionTimeoutMS=15_000, tlsAllowInvalidCertificates=True)
+    client = MongoClient(
+        MONGO_URI,
+        server_api=ServerApi("1"),
+        serverSelectionTimeoutMS=15_000,
+        tlsAllowInvalidCertificates=True,
+    )
     count = client[DB_NAME][COLLECTION].count_documents({})
     client.close()
     print(f"MongoDB count: {count:,}")
@@ -54,17 +59,21 @@ def check_mongo_count(**context):
 def run_databricks_job(job_id):
     import requests, time
     headers = {"Authorization": f"Bearer {DATABRICKS_TOKEN}"}
-    run_id = requests.post(
+    response = requests.post(
         f"{DATABRICKS_HOST}/api/2.1/jobs/run-now",
-        headers=headers, json={"job_id": int(job_id)}, timeout=30
-    ).json()["run_id"]
+        headers=headers,
+        json={"job_id": int(job_id)},
+        timeout=30,
+    )
+    run_id = response.json()["run_id"]
     print(f"Databricks job {job_id} triggered — run_id: {run_id}")
 
     while True:
         time.sleep(30)
         state = requests.get(
             f"{DATABRICKS_HOST}/api/2.1/jobs/runs/get?run_id={run_id}",
-            headers=headers, timeout=30
+            headers=headers,
+            timeout=30,
         ).json()["state"]
         print(f"State: {state['life_cycle_state']}")
         if state["life_cycle_state"] in ("TERMINATED", "SKIPPED", "INTERNAL_ERROR"):
@@ -73,7 +82,11 @@ def run_databricks_job(job_id):
             break
 
 
-# ── Tasks ────────────────────────────────────────────────────────────────────
+task_check = BranchPythonOperator(
+    task_id="check_mongo_count",
+    python_callable=check_mongo_count,
+    dag=dag,
+)
 
 task_ingest = PythonOperator(
     task_id="ingest_gbif_to_mongo",
@@ -81,14 +94,6 @@ task_ingest = PythonOperator(
     dag=dag,
     execution_timeout=timedelta(hours=3),
 )
-
-task_check = BranchPythonOperator(
-    task_id="check_mongo_count",
-    python_callable=check_mongo_count,
-    dag=dag,
-)
-
-task_abort = EmptyOperator(task_id="abort_low_record_count", dag=dag)
 
 task_bronze = PythonOperator(
     task_id="run_databricks_bronze",
@@ -129,7 +134,8 @@ task_dbt_test = BashOperator(
     dag=dag,
 )
 
-task_done = EmptyOperator(task_id="pipeline_done", dag=dag)
+task_abort = EmptyOperator(task_id="abort_low_record_count", dag=dag)
+task_done  = EmptyOperator(task_id="pipeline_done", dag=dag)
 
 task_check >> [task_bronze, task_ingest]
 task_ingest >> task_bronze
