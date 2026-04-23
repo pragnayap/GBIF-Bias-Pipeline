@@ -2,7 +2,7 @@
 
 End-to-end data pipeline detecting geographic sampling imbalance in global bird occurrence data.
 
-**Team:**  Pragnaya Priyadarshini | Rutuja Rajendra Saste
+**Team:** Pragnaya Priyadarshini | Rutuja Rajendra Saste  
 **Course:** Data Warehousing — San José State University, Spring 2026
 
 ---
@@ -27,24 +27,22 @@ GBIF aggregates over 1 billion biodiversity records from citizen scientists worl
 
 ## Architecture
 
-```                                                               
-                                                                   GBIF API
-                                                                       ↓
-                                                                  Python Ingestion
-                                                                         ↓
-                                                                  BMongoDB Atlas
-                                                                         ↓
-                                                                  Databricks Bronze
-                                                                         ↑
-                                                                  Databricks Silver
-                                                                         ↓
-                                                                  dbt Star Schema
-                                                                         ↓
-                                                                  Bias Metrics (z-scores)
-                                                                         ↓
-                                                                  Power BI Dashboard
-                                                                         ↑
-                                                            Apache Airflow @weekly DAG
+```
+GBIF API
+    ↓
+Python Ingestion (gbif_to_mongo.py)
+    ↓
+MongoDB Atlas (raw_occurrences)
+    ↓
+Databricks Bronze (PySpark Delta)
+    ↓
+Databricks Silver (cleaned + grid cells)
+    ↓
+dbt Star Schema (staging → marts → metrics)
+    ↓
+Power BI Dashboard
+    ↑
+Apache Airflow @weekly DAG (orchestrates all steps)
 ```
 
 | Layer | Tool | Output | Rows |
@@ -65,8 +63,10 @@ GBIF aggregates over 1 billion biodiversity records from citizen scientists worl
 ```
 gbif-bias-pipeline/
 ├── dags/
-│   ├── gbif_bias_pipeline.py      # Airflow DAG — 9 tasks
-│   └── gbif_to_mongo.py           # GBIF ingestion script
+│   └── gbif_bias_pipeline.py      # Airflow DAG — 9 tasks
+├── notebooks/
+│   ├── 01_mongo_to_bronze.py      # Databricks: MongoDB → Bronze Delta
+│   └── 02_bronze_to_silver.py     # Databricks: Bronze → Silver Delta
 ├── dbt_project/
 │   ├── models/
 │   │   ├── staging/               # stg_occurrences
@@ -76,6 +76,7 @@ gbif-bias-pipeline/
 │   ├── dbt_project.yml
 │   ├── profiles.yml.example       # credentials template
 │   └── packages.yml
+├── gbif_to_mongo.py               # GBIF ingestion script
 ├── .env.example                   # environment variables template
 ├── .gitignore
 └── README.md
@@ -88,7 +89,7 @@ gbif-bias-pipeline/
 ### Prerequisites
 
 ```
-Python 3.13+  |  Docker Desktop  |  MongoDB Atlas account  |  Databricks Free Edition
+Python 3.12  |  MongoDB Atlas account  |  Databricks Free Edition  |  Power BI Web
 ```
 
 ### Installation
@@ -96,20 +97,27 @@ Python 3.13+  |  Docker Desktop  |  MongoDB Atlas account  |  Databricks Free Ed
 ```bash
 git clone https://github.com/pragnayap/GBIF-Bias-Pipeline.git
 cd GBIF-Bias-Pipeline
-python3 -m venv venv
+
+# Python 3.12 required — Airflow 3.x not compatible with Python 3.13
+python3.12 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
-cp .env.example .env          # fill in your credentials
+
+pip install apache-airflow==3.2.1
+pip install pymongo requests pandas dbt-core dbt-databricks python-dotenv
+
+cp .env.example .env
 cp dbt_project/profiles.yml.example dbt_project/profiles.yml
+# Fill in credentials in both files
 ```
 
 ### Environment Variables (.env)
 
 ```
 MONGO_URI=mongodb+srv://USERNAME:PASSWORD@cluster.mongodb.net/gbif_birds
-DATABRICKS_HOST=your-workspace.cloud.databricks.com
-DATABRICKS_HTTP_PATH=/sql/1.0/warehouses/your_warehouse_id
+DATABRICKS_HOST=https://your-workspace.cloud.databricks.com
 DATABRICKS_TOKEN=your_databricks_personal_access_token
+BRONZE_JOB_ID=your_bronze_job_id
+SILVER_JOB_ID=your_silver_job_id
 ```
 
 ---
@@ -123,11 +131,15 @@ source venv/bin/activate
 python3 gbif_to_mongo.py --total 100000
 ```
 
+> If MongoDB already has >= 90,000 records, the Airflow DAG skips ingestion automatically on subsequent runs.
+
 ### Step 2 — Run Databricks notebooks
 
+Upload `notebooks/01_mongo_to_bronze.py` and `notebooks/02_bronze_to_silver.py` to your Databricks workspace and run them as jobs. Credentials are read from Databricks Secrets scope `gbif`.
+
 ```
-Notebook 1: MongoDB → Bronze Delta table
-Notebook 2: Bronze → Silver Delta table (6 quality filters + grid cells)
+Job 1: MongoDB → Bronze Delta table
+Job 2: Bronze → Silver Delta table (6 quality filters + grid cells)
 ```
 
 ### Step 3 — Run dbt
@@ -142,10 +154,26 @@ dbt test   # runs 37 data quality tests
 ### Step 4 — Airflow (automated @weekly)
 
 ```bash
-cd /path/to/airflow
-docker compose up -d
-# Open localhost:8080 → trigger gbif_bias_pipeline DAG
+cd /path/to/gbif-bias-pipeline
+source venv/bin/activate
+export AIRFLOW_HOME=~/airflow
+airflow db migrate      # first time only
+airflow standalone
 ```
+
+Open `http://localhost:8080` and trigger the `gbif_bias_pipeline` DAG.
+
+> Keep the terminal running — closing it stops Airflow. Open a new tab (`Cmd+T`) for other commands.
+
+### Step 5 — Refresh Power BI
+
+After pipeline completes, manually refresh the dashboard:
+
+```
+app.powerbi.com → GBIF Bird Observation report → click Refresh
+```
+
+> Power BI free tier does not support scheduled auto-refresh. The pipeline updates Databricks tables automatically — only the Power BI pull step requires a manual click.
 
 ---
 
@@ -193,22 +221,28 @@ Percentile-based thresholds (p25=6, p50=27, p75=135) are used instead of fixed z
 
 ---
 
-## Airflow DAG
+## Airflow DAG — 9 Tasks
 
 ```
-install_packages → ingest_gbif_to_mongo → check_mongo_count
-                                                ↓              ↓
-                                        databricks_bronze   abort_low_record_count
-                                                ↓
-                                        databricks_silver
-                                                ↓
-                                        dbt_run_staging → dbt_run_marts → dbt_run_metrics
-                                                                                ↓
-                                                                           dbt_test → pipeline_done
+check_mongo_count
+      ↓                    ↓
+run_databricks_bronze   abort_low_record_count
+      ↓
+run_databricks_silver
+      ↓
+dbt_run_staging
+      ↓
+dbt_run_marts
+      ↓
+dbt_run_metrics
+      ↓
+dbt_test
+      ↓
+pipeline_done
 ```
 
 Schedule: `@weekly`  
-Branch logic: aborts if MongoDB count < 90,000 records
+Branch logic: skips to Databricks if MongoDB >= 90,000 records, aborts if below threshold.
 
 ---
 
@@ -223,7 +257,8 @@ Branch logic: aborts if MongoDB count < 90,000 records
 | Silver 0 rows | Year filter upper bound fixed from 2025 to 2026 |
 | dim_geography duplicates (31 rows per cell) | GROUP BY grid_cell + first() aggregation |
 | bias_metrics fan-out (10x inflation) | Removed dim joins — count directly from fact |
-| GBIF 100k API hard limit | Date range filtering for incremental runs |
+| Airflow Python incompatibility | Recreated venv with Python 3.12 via Homebrew |
+| Power BI no auto-refresh | Manual refresh after each pipeline run (free tier) |
 
 ---
 
@@ -231,15 +266,17 @@ Branch logic: aborts if MongoDB count < 90,000 records
 
 Non-overlapping bounding boxes derived from Natural Earth 1:110m cultural vectors (naturalearthdata.com) and cross-referenced with GBIF continent processing documentation (techdocs.gbif.org/en/data-processing).
 
+**Limitation:** ~5-10 edge cells near continental borders may be misassigned. Future work: point-in-polygon lookup using Natural Earth shapefile.
+
 ---
 
 ## Future Work
 
 - True incremental GBIF ingestion using `lastInterpreted` date filter (current: weekly full re-check)
 - Migrate Databricks triggers to official `DatabricksRunNowOperator` (current: custom PythonOperator)
+- Automated Power BI dashboard refresh via REST API triggered at pipeline completion (current: manual)
 - Point-in-polygon continent assignment using Natural Earth shapefile (current: approximate bounding boxes)
 - Real-time ingestion via Kafka streaming
-- Automated Power BI dashboard refresh via REST API triggered at pipeline completion
 - Expand to additional GBIF taxa beyond birds (requires upgraded compute tier)
 
 ---
