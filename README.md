@@ -2,7 +2,7 @@
 
 End-to-end data pipeline detecting geographic sampling imbalance in global bird occurrence data.
 
-**Team:** Prashasti Srivastava · Rutuja Rajendra Saste · Pragnaya Priyadarshini  
+**Team:**  Pragnaya Priyadarshini | Rutuja Rajendra Saste
 **Course:** Data Warehousing — San José State University, Spring 2026
 
 ---
