@@ -52,3 +52,14 @@ simple_auth_manager_passwords.json.generated
 replacements.txt
 Screnshots/
 Screenshots/
+Screnshots/
+Screenshots/
+replacements.txt
+simple_auth_manager_passwords.json.generated
+dbt_project/profiles.yml
+dbt_project/.user.yml
+dbt_project/package-lock.json
+dbt_project/target/
+dbt_project/dbt_packages/
+logs/
+*.db
