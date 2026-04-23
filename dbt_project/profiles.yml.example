@@ -1,0 +1,10 @@
+databricks_gbif:
+  target: dev
+  outputs:
+    dev:
+      type: databricks
+      catalog: workspace
+      schema: marts_staging
+      host: your-workspace.cloud.databricks.com
+      http_path: /sql/1.0/warehouses/your_warehouse_id
+      token: your_databricks_token_here
