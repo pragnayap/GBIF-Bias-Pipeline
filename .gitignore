@@ -63,3 +63,6 @@ dbt_project/target/
 dbt_project/dbt_packages/
 logs/
 *.db
+dbt_project/dbt_packages/
+dbt_project/target/
+dbt_project/package-lock.yml
