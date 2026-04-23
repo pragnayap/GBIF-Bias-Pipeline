@@ -27,8 +27,16 @@ GBIF aggregates over 1 billion biodiversity records from citizen scientists worl
 
 ## Architecture
 
-```
-GBIF API → Python Ingestion → MongoDB Atlas → Databricks Bronze → Databricks Silver
+```                                                               
+                                                                   GBIF API
+                                                                       ↓
+                                                                  Python Ingestion
+                                                                         ↓
+                                                                  BMongoDB Atlas
+                                                                         ↓
+                                                                  Databricks Bronze
+                                                                         ↑
+                                                                  Databricks Silver
                                                                          ↓
                                                                   dbt Star Schema
                                                                          ↓
