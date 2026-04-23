@@ -48,3 +48,7 @@ docker-compose.yaml
 .env.docker
 dbt_project/profiles.yml
 dbt_project/profiles.yml
+simple_auth_manager_passwords.json.generated
+replacements.txt
+Screnshots/
+Screenshots/
