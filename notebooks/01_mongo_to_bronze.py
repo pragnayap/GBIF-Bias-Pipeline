@@ -1,16 +1,3 @@
-# Databricks notebook source
-# MAGIC %pip install "pymongo[srv]" dnspython
-# MAGIC dbutils.library.restartPython()
-
-# COMMAND ----------
-
-# Credentials stored in Databricks Secrets scope "gbif"
-# Setup: databricks secrets create-scope gbif
-#        databricks secrets put --scope gbif --key mongo_uri --string-value "..."
-#        databricks secrets put --scope gbif --key atlas_public_key --string-value "..."
-#        databricks secrets put --scope gbif --key atlas_private_key --string-value "..."
-#        databricks secrets put --scope gbif --key atlas_project_id --string-value "..."
-
 MONGO_URI         = dbutils.secrets.get(scope="gbif", key="mongo_uri")
 ATLAS_PUBLIC_KEY  = dbutils.secrets.get(scope="gbif", key="atlas_public_key")
 ATLAS_PRIVATE_KEY = dbutils.secrets.get(scope="gbif", key="atlas_private_key")
