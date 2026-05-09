@@ -19,29 +19,35 @@ with obs_by_cell as (
     join {{ ref('dim_date') }}          d  on d.date_key     = f.date_key
     group by 1, 2, 3, 4, 5, 6, 7, 8
 ),
-
 global_stats as (
     select
         avg(total_observations)    as global_avg,
         stddev(total_observations) as global_std,
-        sum(total_observations)    as global_total
+        sum(total_observations)    as global_total,
+        percentile_cont(0.25) within group (order by total_observations) as p25,
+        percentile_cont(0.50) within group (order by total_observations) as p50,
+        percentile_cont(0.75) within group (order by total_observations) as p75
     from obs_by_cell
 )
-
 select
     o.*,
-    round((o.total_observations - g.global_avg) / nullif(g.global_std, 0), 3)     as sampling_zscore,
-    round(o.total_observations * 100.0 / nullif(g.global_total, 0), 4)            as pct_of_global,
-    round(o.total_observations * 1.0   / nullif(o.unique_observers, 0), 2)        as obs_per_observer,
-    rank() over (order by o.total_observations asc)                                as undersampled_rank,
-    rank() over (order by o.total_observations desc)                               as oversampled_rank,
-    rank() over (partition by o.continent order by o.total_observations asc)       as undersampled_rank_in_continent,
+    round(o.total_observations * 100.0 / nullif(g.global_total, 0), 4)      as pct_of_global,
+    round(o.total_observations * 1.0   / nullif(o.unique_observers, 0), 2)  as obs_per_observer,
+    rank() over (order by o.total_observations asc)                          as undersampled_rank,
+    rank() over (order by o.total_observations desc)                         as oversampled_rank,
+    rank() over (
+        partition by o.continent
+        order by o.total_observations asc
+    )                                                                         as undersampled_rank_in_continent,
     case
-        when (o.total_observations - g.global_avg) / nullif(g.global_std, 0) < -1.0 then 'Severely undersampled'
-        when (o.total_observations - g.global_avg) / nullif(g.global_std, 0) < -0.5 then 'Moderately undersampled'
-        when (o.total_observations - g.global_avg) / nullif(g.global_std, 0) >  1.0 then 'Oversampled'
-        else                                                                              'Near average'
-    end                                                                            as bias_category,
+        when o.total_observations <= g.p25 then 'Severely undersampled'
+        when o.total_observations <= g.p50 then 'Moderately undersampled'
+        when o.total_observations <= g.p75 then 'Near average'
+        else                                    'Oversampled'
+    end                                                                       as bias_category,
+    g.p25,
+    g.p50,
+    g.p75,
     g.global_avg,
     g.global_std,
     g.global_total
